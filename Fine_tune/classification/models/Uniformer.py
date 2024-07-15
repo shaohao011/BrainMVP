@@ -570,10 +570,3 @@ class cls_model(torch.nn.Module):
 def make_model(in_channels, out_channels, img_size, feature_size,pretrain_path=None):
     model = cls_model(in_channels, out_channels, img_size, feature_size,pretrain_path)
     return model
-
-
-if __name__ == "__main__":
-    path = "../pretrained_weights/m3ae_uniformer_pretrain_ep599.pth.tar"
-    model = make_model(5, 7, 96, path, 16, False)
-    input = torch.randn((3,5,96,96,96))
-    print(model(input).shape) #torch.Size([3, 7, 96, 96, 96])

@@ -7,7 +7,6 @@
 
 ### 1. Clone the repository
 ```bash
-$ git clone https://github.com/shaohao011/BrainMVP.git
 $ cd BrainMVP/
 $ pip install -r requirements.txt
 ```

@@ -19,8 +19,7 @@ $ pip install -r requirements.txt
 
 Download the pre-trained BrainMVP and save into `./pretrained_weights` directory.
 ### 3. Load Pre-trained model
-We have provided code examples for loading our BrainMVP pre-trained weights in classification tasks in [UNET3D.py](Fine_tune\classification\models\UNET3D.py) and [Uniformer.py](Fine_tune\classification\models\Uniformer.py).
 # Finetune
-our finetune codes will soon be available
+our finetune and pre-training codes will soon be available
 # Acknowledgement
 We thank [MONAI](https://monai.io/) for their excellent framework for medical image analysis.

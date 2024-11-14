@@ -104,7 +104,7 @@ if __name__=="__main__":
         transforms.Resized(keys=["image","seg"],spatial_size=(128,128,64),mode = ("trilinear","nearest")),  
         ]
         )
-    data_path = "/ailab/public/pjlab-smarthealth03/chenlingzhi/mri_datasets/Downstream/BraTS2018/MICCAI_BraTS_2018_Data_Training"
+    data_path = ""
     full_metadata_file = "jsons/brats18_cls.json"
     
     save_json_path = "jsons/brats18_cls_npy.json"

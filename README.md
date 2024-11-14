@@ -17,7 +17,7 @@ $ pip install -r requirements.txt
 | BrainMVP_unet.pt  | [link](https://drive.google.com/file/d/1-54c_VChYVa2bFB_6VJh1bRItckqOF-o/view?usp=drive_link) | pre-trained U-Net weights |
 | BrainMVP_uniformer.pt | [link](https://drive.google.com/file/d/1o3pPEHeCEhRaDjqtufJMq6W6F40_sdxY/view?usp=drive_link) | pre-trained Uniformer weights |
 ### 3. Model structure
-We provide detailed model structure of U-Net and Uniformer used in our paper in ./FIne_tune, and you can finetune pre-trained model provided above on your own tasks.
+We provide detailed model structure of U-Net and Uniformer used in our paper in ./Fine_tune, and you can finetune pre-trained model provided above on your own tasks.
 # Pre-training
 Code will soon be available.
 # Finetune

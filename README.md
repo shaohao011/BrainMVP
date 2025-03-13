@@ -1,4 +1,4 @@
-# BrainMVP - Official PyTorch Implementation
+# [BrainMVP: Multi-modal Vision Pre-training for Medical Image Analysis (CVPR 2025)](https://arxiv.org/abs/2410.10604)
 
 ## Dependencies
 + Python 3.9.19

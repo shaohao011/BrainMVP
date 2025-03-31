@@ -1,0 +1,17 @@
+python3 -u train_script.py --max_epochs 300 --eval_interval 5 \
+--batch_size 2 \
+--patch_shape 96 \
+--in_channels 4 \
+--out_classes 3 \
+--lr 0.0003 \
+--wd 0.0001 \
+--random_seed 42 \
+--workers 6 \
+--devices 3 \
+--data_root 'PATH TO YOUR IMAGE DIR' \
+--dataset 'brats23-ped' \
+--json_file 'dataset_BraTS2023_PED_ds.json' \
+--output_dir 'debug' \
+--experiment 'debug' \
+--pretrained 'pretrained_weights/BrainMVP_uniformer.pt' \
+--mix_template True --template_dir 'templates'

@@ -1,0 +1,4550 @@
+{
+    "training": [
+        {
+            "image": [
+                "IXI002-Guys-0828/IXI002-Guys-0828-MRA.nii.gz",
+                "IXI002-Guys-0828/IXI002-Guys-0828-PD.nii.gz",
+                "IXI002-Guys-0828/IXI002-Guys-0828-T1.nii.gz",
+                "IXI002-Guys-0828/IXI002-Guys-0828-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI012-HH-1211/IXI012-HH-1211-MRA.nii.gz",
+                "IXI012-HH-1211/IXI012-HH-1211-PD.nii.gz",
+                "IXI012-HH-1211/IXI012-HH-1211-T1.nii.gz",
+                "IXI012-HH-1211/IXI012-HH-1211-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI013-HH-1212/IXI013-HH-1212-MRA.nii.gz",
+                "IXI013-HH-1212/IXI013-HH-1212-PD.nii.gz",
+                "IXI013-HH-1212/IXI013-HH-1212-T1.nii.gz",
+                "IXI013-HH-1212/IXI013-HH-1212-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI015-HH-1258/IXI015-HH-1258-MRA.nii.gz",
+                "IXI015-HH-1258/IXI015-HH-1258-PD.nii.gz",
+                "IXI015-HH-1258/IXI015-HH-1258-T1.nii.gz",
+                "IXI015-HH-1258/IXI015-HH-1258-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI016-Guys-0697/IXI016-Guys-0697-MRA.nii.gz",
+                "IXI016-Guys-0697/IXI016-Guys-0697-PD.nii.gz",
+                "IXI016-Guys-0697/IXI016-Guys-0697-T1.nii.gz",
+                "IXI016-Guys-0697/IXI016-Guys-0697-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI017-Guys-0698/IXI017-Guys-0698-MRA.nii.gz",
+                "IXI017-Guys-0698/IXI017-Guys-0698-PD.nii.gz",
+                "IXI017-Guys-0698/IXI017-Guys-0698-T1.nii.gz",
+                "IXI017-Guys-0698/IXI017-Guys-0698-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI020-Guys-0700/IXI020-Guys-0700-MRA.nii.gz",
+                "IXI020-Guys-0700/IXI020-Guys-0700-PD.nii.gz",
+                "IXI020-Guys-0700/IXI020-Guys-0700-T1.nii.gz",
+                "IXI020-Guys-0700/IXI020-Guys-0700-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI021-Guys-0703/IXI021-Guys-0703-MRA.nii.gz",
+                "IXI021-Guys-0703/IXI021-Guys-0703-PD.nii.gz",
+                "IXI021-Guys-0703/IXI021-Guys-0703-T1.nii.gz",
+                "IXI021-Guys-0703/IXI021-Guys-0703-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI022-Guys-0701/IXI022-Guys-0701-MRA.nii.gz",
+                "IXI022-Guys-0701/IXI022-Guys-0701-PD.nii.gz",
+                "IXI022-Guys-0701/IXI022-Guys-0701-T1.nii.gz",
+                "IXI022-Guys-0701/IXI022-Guys-0701-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI023-Guys-0699/IXI023-Guys-0699-MRA.nii.gz",
+                "IXI023-Guys-0699/IXI023-Guys-0699-PD.nii.gz",
+                "IXI023-Guys-0699/IXI023-Guys-0699-T1.nii.gz",
+                "IXI023-Guys-0699/IXI023-Guys-0699-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI024-Guys-0705/IXI024-Guys-0705-MRA.nii.gz",
+                "IXI024-Guys-0705/IXI024-Guys-0705-PD.nii.gz",
+                "IXI024-Guys-0705/IXI024-Guys-0705-T1.nii.gz",
+                "IXI024-Guys-0705/IXI024-Guys-0705-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI025-Guys-0852/IXI025-Guys-0852-MRA.nii.gz",
+                "IXI025-Guys-0852/IXI025-Guys-0852-PD.nii.gz",
+                "IXI025-Guys-0852/IXI025-Guys-0852-T1.nii.gz",
+                "IXI025-Guys-0852/IXI025-Guys-0852-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI027-Guys-0710/IXI027-Guys-0710-MRA.nii.gz",
+                "IXI027-Guys-0710/IXI027-Guys-0710-PD.nii.gz",
+                "IXI027-Guys-0710/IXI027-Guys-0710-T1.nii.gz",
+                "IXI027-Guys-0710/IXI027-Guys-0710-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI029-Guys-0829/IXI029-Guys-0829-MRA.nii.gz",
+                "IXI029-Guys-0829/IXI029-Guys-0829-PD.nii.gz",
+                "IXI029-Guys-0829/IXI029-Guys-0829-T1.nii.gz",
+                "IXI029-Guys-0829/IXI029-Guys-0829-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI030-Guys-0708/IXI030-Guys-0708-MRA.nii.gz",
+                "IXI030-Guys-0708/IXI030-Guys-0708-PD.nii.gz",
+                "IXI030-Guys-0708/IXI030-Guys-0708-T1.nii.gz",
+                "IXI030-Guys-0708/IXI030-Guys-0708-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI031-Guys-0797/IXI031-Guys-0797-MRA.nii.gz",
+                "IXI031-Guys-0797/IXI031-Guys-0797-PD.nii.gz",
+                "IXI031-Guys-0797/IXI031-Guys-0797-T1.nii.gz",
+                "IXI031-Guys-0797/IXI031-Guys-0797-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI034-HH-1260/IXI034-HH-1260-MRA.nii.gz",
+                "IXI034-HH-1260/IXI034-HH-1260-PD.nii.gz",
+                "IXI034-HH-1260/IXI034-HH-1260-T1.nii.gz",
+                "IXI034-HH-1260/IXI034-HH-1260-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI035-IOP-0873/IXI035-IOP-0873-MRA.nii.gz",
+                "IXI035-IOP-0873/IXI035-IOP-0873-PD.nii.gz",
+                "IXI035-IOP-0873/IXI035-IOP-0873-T1.nii.gz",
+                "IXI035-IOP-0873/IXI035-IOP-0873-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI036-Guys-0736/IXI036-Guys-0736-MRA.nii.gz",
+                "IXI036-Guys-0736/IXI036-Guys-0736-PD.nii.gz",
+                "IXI036-Guys-0736/IXI036-Guys-0736-T1.nii.gz",
+                "IXI036-Guys-0736/IXI036-Guys-0736-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI038-Guys-0729/IXI038-Guys-0729-MRA.nii.gz",
+                "IXI038-Guys-0729/IXI038-Guys-0729-PD.nii.gz",
+                "IXI038-Guys-0729/IXI038-Guys-0729-T1.nii.gz",
+                "IXI038-Guys-0729/IXI038-Guys-0729-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI039-HH-1261/IXI039-HH-1261-MRA.nii.gz",
+                "IXI039-HH-1261/IXI039-HH-1261-PD.nii.gz",
+                "IXI039-HH-1261/IXI039-HH-1261-T1.nii.gz",
+                "IXI039-HH-1261/IXI039-HH-1261-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI040-Guys-0724/IXI040-Guys-0724-MRA.nii.gz",
+                "IXI040-Guys-0724/IXI040-Guys-0724-PD.nii.gz",
+                "IXI040-Guys-0724/IXI040-Guys-0724-T1.nii.gz",
+                "IXI040-Guys-0724/IXI040-Guys-0724-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI041-Guys-0706/IXI041-Guys-0706-MRA.nii.gz",
+                "IXI041-Guys-0706/IXI041-Guys-0706-PD.nii.gz",
+                "IXI041-Guys-0706/IXI041-Guys-0706-T1.nii.gz",
+                "IXI041-Guys-0706/IXI041-Guys-0706-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI042-Guys-0725/IXI042-Guys-0725-MRA.nii.gz",
+                "IXI042-Guys-0725/IXI042-Guys-0725-PD.nii.gz",
+                "IXI042-Guys-0725/IXI042-Guys-0725-T1.nii.gz",
+                "IXI042-Guys-0725/IXI042-Guys-0725-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI044-Guys-0712/IXI044-Guys-0712-MRA.nii.gz",
+                "IXI044-Guys-0712/IXI044-Guys-0712-PD.nii.gz",
+                "IXI044-Guys-0712/IXI044-Guys-0712-T1.nii.gz",
+                "IXI044-Guys-0712/IXI044-Guys-0712-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI046-Guys-0824/IXI046-Guys-0824-MRA.nii.gz",
+                "IXI046-Guys-0824/IXI046-Guys-0824-PD.nii.gz",
+                "IXI046-Guys-0824/IXI046-Guys-0824-T1.nii.gz",
+                "IXI046-Guys-0824/IXI046-Guys-0824-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI048-HH-1326/IXI048-HH-1326-MRA.nii.gz",
+                "IXI048-HH-1326/IXI048-HH-1326-PD.nii.gz",
+                "IXI048-HH-1326/IXI048-HH-1326-T1.nii.gz",
+                "IXI048-HH-1326/IXI048-HH-1326-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI050-Guys-0711/IXI050-Guys-0711-MRA.nii.gz",
+                "IXI050-Guys-0711/IXI050-Guys-0711-PD.nii.gz",
+                "IXI050-Guys-0711/IXI050-Guys-0711-T1.nii.gz",
+                "IXI050-Guys-0711/IXI050-Guys-0711-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI051-HH-1328/IXI051-HH-1328-MRA.nii.gz",
+                "IXI051-HH-1328/IXI051-HH-1328-PD.nii.gz",
+                "IXI051-HH-1328/IXI051-HH-1328-T1.nii.gz",
+                "IXI051-HH-1328/IXI051-HH-1328-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI053-Guys-0727/IXI053-Guys-0727-MRA.nii.gz",
+                "IXI053-Guys-0727/IXI053-Guys-0727-PD.nii.gz",
+                "IXI053-Guys-0727/IXI053-Guys-0727-T1.nii.gz",
+                "IXI053-Guys-0727/IXI053-Guys-0727-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI055-Guys-0730/IXI055-Guys-0730-MRA.nii.gz",
+                "IXI055-Guys-0730/IXI055-Guys-0730-PD.nii.gz",
+                "IXI055-Guys-0730/IXI055-Guys-0730-T1.nii.gz",
+                "IXI055-Guys-0730/IXI055-Guys-0730-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI056-HH-1327/IXI056-HH-1327-MRA.nii.gz",
+                "IXI056-HH-1327/IXI056-HH-1327-PD.nii.gz",
+                "IXI056-HH-1327/IXI056-HH-1327-T1.nii.gz",
+                "IXI056-HH-1327/IXI056-HH-1327-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI057-HH-1342/IXI057-HH-1342-MRA.nii.gz",
+                "IXI057-HH-1342/IXI057-HH-1342-PD.nii.gz",
+                "IXI057-HH-1342/IXI057-HH-1342-T1.nii.gz",
+                "IXI057-HH-1342/IXI057-HH-1342-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI058-Guys-0726/IXI058-Guys-0726-MRA.nii.gz",
+                "IXI058-Guys-0726/IXI058-Guys-0726-PD.nii.gz",
+                "IXI058-Guys-0726/IXI058-Guys-0726-T1.nii.gz",
+                "IXI058-Guys-0726/IXI058-Guys-0726-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI059-HH-1284/IXI059-HH-1284-MRA.nii.gz",
+                "IXI059-HH-1284/IXI059-HH-1284-PD.nii.gz",
+                "IXI059-HH-1284/IXI059-HH-1284-T1.nii.gz",
+                "IXI059-HH-1284/IXI059-HH-1284-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI060-Guys-0709/IXI060-Guys-0709-MRA.nii.gz",
+                "IXI060-Guys-0709/IXI060-Guys-0709-PD.nii.gz",
+                "IXI060-Guys-0709/IXI060-Guys-0709-T1.nii.gz",
+                "IXI060-Guys-0709/IXI060-Guys-0709-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI061-Guys-0715/IXI061-Guys-0715-MRA.nii.gz",
+                "IXI061-Guys-0715/IXI061-Guys-0715-PD.nii.gz",
+                "IXI061-Guys-0715/IXI061-Guys-0715-T1.nii.gz",
+                "IXI061-Guys-0715/IXI061-Guys-0715-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI062-Guys-0740/IXI062-Guys-0740-MRA.nii.gz",
+                "IXI062-Guys-0740/IXI062-Guys-0740-PD.nii.gz",
+                "IXI062-Guys-0740/IXI062-Guys-0740-T1.nii.gz",
+                "IXI062-Guys-0740/IXI062-Guys-0740-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI063-Guys-0742/IXI063-Guys-0742-MRA.nii.gz",
+                "IXI063-Guys-0742/IXI063-Guys-0742-PD.nii.gz",
+                "IXI063-Guys-0742/IXI063-Guys-0742-T1.nii.gz",
+                "IXI063-Guys-0742/IXI063-Guys-0742-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI064-Guys-0743/IXI064-Guys-0743-MRA.nii.gz",
+                "IXI064-Guys-0743/IXI064-Guys-0743-PD.nii.gz",
+                "IXI064-Guys-0743/IXI064-Guys-0743-T1.nii.gz",
+                "IXI064-Guys-0743/IXI064-Guys-0743-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI065-Guys-0744/IXI065-Guys-0744-MRA.nii.gz",
+                "IXI065-Guys-0744/IXI065-Guys-0744-PD.nii.gz",
+                "IXI065-Guys-0744/IXI065-Guys-0744-T1.nii.gz",
+                "IXI065-Guys-0744/IXI065-Guys-0744-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI066-Guys-0731/IXI066-Guys-0731-MRA.nii.gz",
+                "IXI066-Guys-0731/IXI066-Guys-0731-PD.nii.gz",
+                "IXI066-Guys-0731/IXI066-Guys-0731-T1.nii.gz",
+                "IXI066-Guys-0731/IXI066-Guys-0731-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI067-HH-1356/IXI067-HH-1356-MRA.nii.gz",
+                "IXI067-HH-1356/IXI067-HH-1356-PD.nii.gz",
+                "IXI067-HH-1356/IXI067-HH-1356-T1.nii.gz",
+                "IXI067-HH-1356/IXI067-HH-1356-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI068-Guys-0756/IXI068-Guys-0756-MRA.nii.gz",
+                "IXI068-Guys-0756/IXI068-Guys-0756-PD.nii.gz",
+                "IXI068-Guys-0756/IXI068-Guys-0756-T1.nii.gz",
+                "IXI068-Guys-0756/IXI068-Guys-0756-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI069-Guys-0769/IXI069-Guys-0769-MRA.nii.gz",
+                "IXI069-Guys-0769/IXI069-Guys-0769-PD.nii.gz",
+                "IXI069-Guys-0769/IXI069-Guys-0769-T1.nii.gz",
+                "IXI069-Guys-0769/IXI069-Guys-0769-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI070-Guys-0767/IXI070-Guys-0767-MRA.nii.gz",
+                "IXI070-Guys-0767/IXI070-Guys-0767-PD.nii.gz",
+                "IXI070-Guys-0767/IXI070-Guys-0767-T1.nii.gz",
+                "IXI070-Guys-0767/IXI070-Guys-0767-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI071-Guys-0770/IXI071-Guys-0770-MRA.nii.gz",
+                "IXI071-Guys-0770/IXI071-Guys-0770-PD.nii.gz",
+                "IXI071-Guys-0770/IXI071-Guys-0770-T1.nii.gz",
+                "IXI071-Guys-0770/IXI071-Guys-0770-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI072-HH-2324/IXI072-HH-2324-MRA.nii.gz",
+                "IXI072-HH-2324/IXI072-HH-2324-PD.nii.gz",
+                "IXI072-HH-2324/IXI072-HH-2324-T1.nii.gz",
+                "IXI072-HH-2324/IXI072-HH-2324-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI074-Guys-0771/IXI074-Guys-0771-MRA.nii.gz",
+                "IXI074-Guys-0771/IXI074-Guys-0771-PD.nii.gz",
+                "IXI074-Guys-0771/IXI074-Guys-0771-T1.nii.gz",
+                "IXI074-Guys-0771/IXI074-Guys-0771-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI075-Guys-0754/IXI075-Guys-0754-MRA.nii.gz",
+                "IXI075-Guys-0754/IXI075-Guys-0754-PD.nii.gz",
+                "IXI075-Guys-0754/IXI075-Guys-0754-T1.nii.gz",
+                "IXI075-Guys-0754/IXI075-Guys-0754-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI076-Guys-0753/IXI076-Guys-0753-MRA.nii.gz",
+                "IXI076-Guys-0753/IXI076-Guys-0753-PD.nii.gz",
+                "IXI076-Guys-0753/IXI076-Guys-0753-T1.nii.gz",
+                "IXI076-Guys-0753/IXI076-Guys-0753-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI077-Guys-0752/IXI077-Guys-0752-MRA.nii.gz",
+                "IXI077-Guys-0752/IXI077-Guys-0752-PD.nii.gz",
+                "IXI077-Guys-0752/IXI077-Guys-0752-T1.nii.gz",
+                "IXI077-Guys-0752/IXI077-Guys-0752-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI078-Guys-0751/IXI078-Guys-0751-MRA.nii.gz",
+                "IXI078-Guys-0751/IXI078-Guys-0751-PD.nii.gz",
+                "IXI078-Guys-0751/IXI078-Guys-0751-T1.nii.gz",
+                "IXI078-Guys-0751/IXI078-Guys-0751-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI079-HH-1388/IXI079-HH-1388-MRA.nii.gz",
+                "IXI079-HH-1388/IXI079-HH-1388-PD.nii.gz",
+                "IXI079-HH-1388/IXI079-HH-1388-T1.nii.gz",
+                "IXI079-HH-1388/IXI079-HH-1388-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI080-HH-1341/IXI080-HH-1341-MRA.nii.gz",
+                "IXI080-HH-1341/IXI080-HH-1341-PD.nii.gz",
+                "IXI080-HH-1341/IXI080-HH-1341-T1.nii.gz",
+                "IXI080-HH-1341/IXI080-HH-1341-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI083-HH-1357/IXI083-HH-1357-MRA.nii.gz",
+                "IXI083-HH-1357/IXI083-HH-1357-PD.nii.gz",
+                "IXI083-HH-1357/IXI083-HH-1357-T1.nii.gz",
+                "IXI083-HH-1357/IXI083-HH-1357-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI084-Guys-0741/IXI084-Guys-0741-MRA.nii.gz",
+                "IXI084-Guys-0741/IXI084-Guys-0741-PD.nii.gz",
+                "IXI084-Guys-0741/IXI084-Guys-0741-T1.nii.gz",
+                "IXI084-Guys-0741/IXI084-Guys-0741-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI085-Guys-0759/IXI085-Guys-0759-MRA.nii.gz",
+                "IXI085-Guys-0759/IXI085-Guys-0759-PD.nii.gz",
+                "IXI085-Guys-0759/IXI085-Guys-0759-T1.nii.gz",
+                "IXI085-Guys-0759/IXI085-Guys-0759-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI086-Guys-0728/IXI086-Guys-0728-MRA.nii.gz",
+                "IXI086-Guys-0728/IXI086-Guys-0728-PD.nii.gz",
+                "IXI086-Guys-0728/IXI086-Guys-0728-T1.nii.gz",
+                "IXI086-Guys-0728/IXI086-Guys-0728-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI087-Guys-0768/IXI087-Guys-0768-MRA.nii.gz",
+                "IXI087-Guys-0768/IXI087-Guys-0768-PD.nii.gz",
+                "IXI087-Guys-0768/IXI087-Guys-0768-T1.nii.gz",
+                "IXI087-Guys-0768/IXI087-Guys-0768-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI089-Guys-0757/IXI089-Guys-0757-MRA.nii.gz",
+                "IXI089-Guys-0757/IXI089-Guys-0757-PD.nii.gz",
+                "IXI089-Guys-0757/IXI089-Guys-0757-T1.nii.gz",
+                "IXI089-Guys-0757/IXI089-Guys-0757-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI090-Guys-0800/IXI090-Guys-0800-MRA.nii.gz",
+                "IXI090-Guys-0800/IXI090-Guys-0800-PD.nii.gz",
+                "IXI090-Guys-0800/IXI090-Guys-0800-T1.nii.gz",
+                "IXI090-Guys-0800/IXI090-Guys-0800-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI091-Guys-0762/IXI091-Guys-0762-MRA.nii.gz",
+                "IXI091-Guys-0762/IXI091-Guys-0762-PD.nii.gz",
+                "IXI091-Guys-0762/IXI091-Guys-0762-T1.nii.gz",
+                "IXI091-Guys-0762/IXI091-Guys-0762-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI092-HH-1436/IXI092-HH-1436-MRA.nii.gz",
+                "IXI092-HH-1436/IXI092-HH-1436-PD.nii.gz",
+                "IXI092-HH-1436/IXI092-HH-1436-T1.nii.gz",
+                "IXI092-HH-1436/IXI092-HH-1436-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI093-HH-1359/IXI093-HH-1359-MRA.nii.gz",
+                "IXI093-HH-1359/IXI093-HH-1359-PD.nii.gz",
+                "IXI093-HH-1359/IXI093-HH-1359-T1.nii.gz",
+                "IXI093-HH-1359/IXI093-HH-1359-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI094-HH-1355/IXI094-HH-1355-MRA.nii.gz",
+                "IXI094-HH-1355/IXI094-HH-1355-PD.nii.gz",
+                "IXI094-HH-1355/IXI094-HH-1355-T1.nii.gz",
+                "IXI094-HH-1355/IXI094-HH-1355-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI095-HH-1390/IXI095-HH-1390-MRA.nii.gz",
+                "IXI095-HH-1390/IXI095-HH-1390-PD.nii.gz",
+                "IXI095-HH-1390/IXI095-HH-1390-T1.nii.gz",
+                "IXI095-HH-1390/IXI095-HH-1390-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI097-HH-1619/IXI097-HH-1619-MRA.nii.gz",
+                "IXI097-HH-1619/IXI097-HH-1619-PD.nii.gz",
+                "IXI097-HH-1619/IXI097-HH-1619-T1.nii.gz",
+                "IXI097-HH-1619/IXI097-HH-1619-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI098-Guys-0745/IXI098-Guys-0745-MRA.nii.gz",
+                "IXI098-Guys-0745/IXI098-Guys-0745-PD.nii.gz",
+                "IXI098-Guys-0745/IXI098-Guys-0745-T1.nii.gz",
+                "IXI098-Guys-0745/IXI098-Guys-0745-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI099-Guys-0748/IXI099-Guys-0748-MRA.nii.gz",
+                "IXI099-Guys-0748/IXI099-Guys-0748-PD.nii.gz",
+                "IXI099-Guys-0748/IXI099-Guys-0748-T1.nii.gz",
+                "IXI099-Guys-0748/IXI099-Guys-0748-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI100-Guys-0747/IXI100-Guys-0747-MRA.nii.gz",
+                "IXI100-Guys-0747/IXI100-Guys-0747-PD.nii.gz",
+                "IXI100-Guys-0747/IXI100-Guys-0747-T1.nii.gz",
+                "IXI100-Guys-0747/IXI100-Guys-0747-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI101-Guys-0749/IXI101-Guys-0749-MRA.nii.gz",
+                "IXI101-Guys-0749/IXI101-Guys-0749-PD.nii.gz",
+                "IXI101-Guys-0749/IXI101-Guys-0749-T1.nii.gz",
+                "IXI101-Guys-0749/IXI101-Guys-0749-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI102-HH-1416/IXI102-HH-1416-MRA.nii.gz",
+                "IXI102-HH-1416/IXI102-HH-1416-PD.nii.gz",
+                "IXI102-HH-1416/IXI102-HH-1416-T1.nii.gz",
+                "IXI102-HH-1416/IXI102-HH-1416-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI103-Guys-0750/IXI103-Guys-0750-MRA.nii.gz",
+                "IXI103-Guys-0750/IXI103-Guys-0750-PD.nii.gz",
+                "IXI103-Guys-0750/IXI103-Guys-0750-T1.nii.gz",
+                "IXI103-Guys-0750/IXI103-Guys-0750-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI104-HH-1450/IXI104-HH-1450-MRA.nii.gz",
+                "IXI104-HH-1450/IXI104-HH-1450-PD.nii.gz",
+                "IXI104-HH-1450/IXI104-HH-1450-T1.nii.gz",
+                "IXI104-HH-1450/IXI104-HH-1450-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI105-HH-1471/IXI105-HH-1471-MRA.nii.gz",
+                "IXI105-HH-1471/IXI105-HH-1471-PD.nii.gz",
+                "IXI105-HH-1471/IXI105-HH-1471-T1.nii.gz",
+                "IXI105-HH-1471/IXI105-HH-1471-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI106-Guys-0760/IXI106-Guys-0760-MRA.nii.gz",
+                "IXI106-Guys-0760/IXI106-Guys-0760-PD.nii.gz",
+                "IXI106-Guys-0760/IXI106-Guys-0760-T1.nii.gz",
+                "IXI106-Guys-0760/IXI106-Guys-0760-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI107-Guys-0761/IXI107-Guys-0761-MRA.nii.gz",
+                "IXI107-Guys-0761/IXI107-Guys-0761-PD.nii.gz",
+                "IXI107-Guys-0761/IXI107-Guys-0761-T1.nii.gz",
+                "IXI107-Guys-0761/IXI107-Guys-0761-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI108-Guys-0865/IXI108-Guys-0865-MRA.nii.gz",
+                "IXI108-Guys-0865/IXI108-Guys-0865-PD.nii.gz",
+                "IXI108-Guys-0865/IXI108-Guys-0865-T1.nii.gz",
+                "IXI108-Guys-0865/IXI108-Guys-0865-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI109-Guys-0732/IXI109-Guys-0732-MRA.nii.gz",
+                "IXI109-Guys-0732/IXI109-Guys-0732-PD.nii.gz",
+                "IXI109-Guys-0732/IXI109-Guys-0732-T1.nii.gz",
+                "IXI109-Guys-0732/IXI109-Guys-0732-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI110-Guys-0733/IXI110-Guys-0733-MRA.nii.gz",
+                "IXI110-Guys-0733/IXI110-Guys-0733-PD.nii.gz",
+                "IXI110-Guys-0733/IXI110-Guys-0733-T1.nii.gz",
+                "IXI110-Guys-0733/IXI110-Guys-0733-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI111-Guys-0734/IXI111-Guys-0734-MRA.nii.gz",
+                "IXI111-Guys-0734/IXI111-Guys-0734-PD.nii.gz",
+                "IXI111-Guys-0734/IXI111-Guys-0734-T1.nii.gz",
+                "IXI111-Guys-0734/IXI111-Guys-0734-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI112-Guys-0735/IXI112-Guys-0735-MRA.nii.gz",
+                "IXI112-Guys-0735/IXI112-Guys-0735-PD.nii.gz",
+                "IXI112-Guys-0735/IXI112-Guys-0735-T1.nii.gz",
+                "IXI112-Guys-0735/IXI112-Guys-0735-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI113-Guys-0776/IXI113-Guys-0776-MRA.nii.gz",
+                "IXI113-Guys-0776/IXI113-Guys-0776-PD.nii.gz",
+                "IXI113-Guys-0776/IXI113-Guys-0776-T1.nii.gz",
+                "IXI113-Guys-0776/IXI113-Guys-0776-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI114-Guys-0737/IXI114-Guys-0737-MRA.nii.gz",
+                "IXI114-Guys-0737/IXI114-Guys-0737-PD.nii.gz",
+                "IXI114-Guys-0737/IXI114-Guys-0737-T1.nii.gz",
+                "IXI114-Guys-0737/IXI114-Guys-0737-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI115-Guys-0738/IXI115-Guys-0738-MRA.nii.gz",
+                "IXI115-Guys-0738/IXI115-Guys-0738-PD.nii.gz",
+                "IXI115-Guys-0738/IXI115-Guys-0738-T1.nii.gz",
+                "IXI115-Guys-0738/IXI115-Guys-0738-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI117-Guys-0763/IXI117-Guys-0763-MRA.nii.gz",
+                "IXI117-Guys-0763/IXI117-Guys-0763-PD.nii.gz",
+                "IXI117-Guys-0763/IXI117-Guys-0763-T1.nii.gz",
+                "IXI117-Guys-0763/IXI117-Guys-0763-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI118-Guys-0764/IXI118-Guys-0764-MRA.nii.gz",
+                "IXI118-Guys-0764/IXI118-Guys-0764-PD.nii.gz",
+                "IXI118-Guys-0764/IXI118-Guys-0764-T1.nii.gz",
+                "IXI118-Guys-0764/IXI118-Guys-0764-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI119-Guys-0765/IXI119-Guys-0765-MRA.nii.gz",
+                "IXI119-Guys-0765/IXI119-Guys-0765-PD.nii.gz",
+                "IXI119-Guys-0765/IXI119-Guys-0765-T1.nii.gz",
+                "IXI119-Guys-0765/IXI119-Guys-0765-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI120-Guys-0766/IXI120-Guys-0766-MRA.nii.gz",
+                "IXI120-Guys-0766/IXI120-Guys-0766-PD.nii.gz",
+                "IXI120-Guys-0766/IXI120-Guys-0766-T1.nii.gz",
+                "IXI120-Guys-0766/IXI120-Guys-0766-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI122-Guys-0773/IXI122-Guys-0773-MRA.nii.gz",
+                "IXI122-Guys-0773/IXI122-Guys-0773-PD.nii.gz",
+                "IXI122-Guys-0773/IXI122-Guys-0773-T1.nii.gz",
+                "IXI122-Guys-0773/IXI122-Guys-0773-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI123-Guys-0774/IXI123-Guys-0774-MRA.nii.gz",
+                "IXI123-Guys-0774/IXI123-Guys-0774-PD.nii.gz",
+                "IXI123-Guys-0774/IXI123-Guys-0774-T1.nii.gz",
+                "IXI123-Guys-0774/IXI123-Guys-0774-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI126-HH-1437/IXI126-HH-1437-MRA.nii.gz",
+                "IXI126-HH-1437/IXI126-HH-1437-PD.nii.gz",
+                "IXI126-HH-1437/IXI126-HH-1437-T1.nii.gz",
+                "IXI126-HH-1437/IXI126-HH-1437-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI127-HH-1451/IXI127-HH-1451-MRA.nii.gz",
+                "IXI127-HH-1451/IXI127-HH-1451-PD.nii.gz",
+                "IXI127-HH-1451/IXI127-HH-1451-T1.nii.gz",
+                "IXI127-HH-1451/IXI127-HH-1451-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI128-HH-1470/IXI128-HH-1470-MRA.nii.gz",
+                "IXI128-HH-1470/IXI128-HH-1470-PD.nii.gz",
+                "IXI128-HH-1470/IXI128-HH-1470-T1.nii.gz",
+                "IXI128-HH-1470/IXI128-HH-1470-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI129-Guys-0775/IXI129-Guys-0775-MRA.nii.gz",
+                "IXI129-Guys-0775/IXI129-Guys-0775-PD.nii.gz",
+                "IXI129-Guys-0775/IXI129-Guys-0775-T1.nii.gz",
+                "IXI129-Guys-0775/IXI129-Guys-0775-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI130-HH-1528/IXI130-HH-1528-MRA.nii.gz",
+                "IXI130-HH-1528/IXI130-HH-1528-PD.nii.gz",
+                "IXI130-HH-1528/IXI130-HH-1528-T1.nii.gz",
+                "IXI130-HH-1528/IXI130-HH-1528-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI131-HH-1527/IXI131-HH-1527-MRA.nii.gz",
+                "IXI131-HH-1527/IXI131-HH-1527-PD.nii.gz",
+                "IXI131-HH-1527/IXI131-HH-1527-T1.nii.gz",
+                "IXI131-HH-1527/IXI131-HH-1527-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI132-HH-1415/IXI132-HH-1415-MRA.nii.gz",
+                "IXI132-HH-1415/IXI132-HH-1415-PD.nii.gz",
+                "IXI132-HH-1415/IXI132-HH-1415-T1.nii.gz",
+                "IXI132-HH-1415/IXI132-HH-1415-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI134-Guys-0780/IXI134-Guys-0780-MRA.nii.gz",
+                "IXI134-Guys-0780/IXI134-Guys-0780-PD.nii.gz",
+                "IXI134-Guys-0780/IXI134-Guys-0780-T1.nii.gz",
+                "IXI134-Guys-0780/IXI134-Guys-0780-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI135-Guys-0779/IXI135-Guys-0779-MRA.nii.gz",
+                "IXI135-Guys-0779/IXI135-Guys-0779-PD.nii.gz",
+                "IXI135-Guys-0779/IXI135-Guys-0779-T1.nii.gz",
+                "IXI135-Guys-0779/IXI135-Guys-0779-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI136-HH-1452/IXI136-HH-1452-MRA.nii.gz",
+                "IXI136-HH-1452/IXI136-HH-1452-PD.nii.gz",
+                "IXI136-HH-1452/IXI136-HH-1452-T1.nii.gz",
+                "IXI136-HH-1452/IXI136-HH-1452-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI138-Guys-0746/IXI138-Guys-0746-MRA.nii.gz",
+                "IXI138-Guys-0746/IXI138-Guys-0746-PD.nii.gz",
+                "IXI138-Guys-0746/IXI138-Guys-0746-T1.nii.gz",
+                "IXI138-Guys-0746/IXI138-Guys-0746-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI139-Guys-0815/IXI139-Guys-0815-MRA.nii.gz",
+                "IXI139-Guys-0815/IXI139-Guys-0815-PD.nii.gz",
+                "IXI139-Guys-0815/IXI139-Guys-0815-T1.nii.gz",
+                "IXI139-Guys-0815/IXI139-Guys-0815-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI140-Guys-0787/IXI140-Guys-0787-MRA.nii.gz",
+                "IXI140-Guys-0787/IXI140-Guys-0787-PD.nii.gz",
+                "IXI140-Guys-0787/IXI140-Guys-0787-T1.nii.gz",
+                "IXI140-Guys-0787/IXI140-Guys-0787-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI141-Guys-0789/IXI141-Guys-0789-MRA.nii.gz",
+                "IXI141-Guys-0789/IXI141-Guys-0789-PD.nii.gz",
+                "IXI141-Guys-0789/IXI141-Guys-0789-T1.nii.gz",
+                "IXI141-Guys-0789/IXI141-Guys-0789-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI142-Guys-0786/IXI142-Guys-0786-MRA.nii.gz",
+                "IXI142-Guys-0786/IXI142-Guys-0786-PD.nii.gz",
+                "IXI142-Guys-0786/IXI142-Guys-0786-T1.nii.gz",
+                "IXI142-Guys-0786/IXI142-Guys-0786-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI143-Guys-0785/IXI143-Guys-0785-MRA.nii.gz",
+                "IXI143-Guys-0785/IXI143-Guys-0785-PD.nii.gz",
+                "IXI143-Guys-0785/IXI143-Guys-0785-T1.nii.gz",
+                "IXI143-Guys-0785/IXI143-Guys-0785-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI144-Guys-0788/IXI144-Guys-0788-MRA.nii.gz",
+                "IXI144-Guys-0788/IXI144-Guys-0788-PD.nii.gz",
+                "IXI144-Guys-0788/IXI144-Guys-0788-T1.nii.gz",
+                "IXI144-Guys-0788/IXI144-Guys-0788-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI145-Guys-0781/IXI145-Guys-0781-MRA.nii.gz",
+                "IXI145-Guys-0781/IXI145-Guys-0781-PD.nii.gz",
+                "IXI145-Guys-0781/IXI145-Guys-0781-T1.nii.gz",
+                "IXI145-Guys-0781/IXI145-Guys-0781-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI148-HH-1453/IXI148-HH-1453-MRA.nii.gz",
+                "IXI148-HH-1453/IXI148-HH-1453-PD.nii.gz",
+                "IXI148-HH-1453/IXI148-HH-1453-T1.nii.gz",
+                "IXI148-HH-1453/IXI148-HH-1453-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI150-HH-1550/IXI150-HH-1550-MRA.nii.gz",
+                "IXI150-HH-1550/IXI150-HH-1550-PD.nii.gz",
+                "IXI150-HH-1550/IXI150-HH-1550-T1.nii.gz",
+                "IXI150-HH-1550/IXI150-HH-1550-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI151-Guys-0793/IXI151-Guys-0793-MRA.nii.gz",
+                "IXI151-Guys-0793/IXI151-Guys-0793-PD.nii.gz",
+                "IXI151-Guys-0793/IXI151-Guys-0793-T1.nii.gz",
+                "IXI151-Guys-0793/IXI151-Guys-0793-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI153-Guys-0782/IXI153-Guys-0782-MRA.nii.gz",
+                "IXI153-Guys-0782/IXI153-Guys-0782-PD.nii.gz",
+                "IXI153-Guys-0782/IXI153-Guys-0782-T1.nii.gz",
+                "IXI153-Guys-0782/IXI153-Guys-0782-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI154-Guys-0821/IXI154-Guys-0821-MRA.nii.gz",
+                "IXI154-Guys-0821/IXI154-Guys-0821-PD.nii.gz",
+                "IXI154-Guys-0821/IXI154-Guys-0821-T1.nii.gz",
+                "IXI154-Guys-0821/IXI154-Guys-0821-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI156-Guys-0837/IXI156-Guys-0837-MRA.nii.gz",
+                "IXI156-Guys-0837/IXI156-Guys-0837-PD.nii.gz",
+                "IXI156-Guys-0837/IXI156-Guys-0837-T1.nii.gz",
+                "IXI156-Guys-0837/IXI156-Guys-0837-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI157-Guys-0816/IXI157-Guys-0816-MRA.nii.gz",
+                "IXI157-Guys-0816/IXI157-Guys-0816-PD.nii.gz",
+                "IXI157-Guys-0816/IXI157-Guys-0816-T1.nii.gz",
+                "IXI157-Guys-0816/IXI157-Guys-0816-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI159-HH-1549/IXI159-HH-1549-MRA.nii.gz",
+                "IXI159-HH-1549/IXI159-HH-1549-PD.nii.gz",
+                "IXI159-HH-1549/IXI159-HH-1549-T1.nii.gz",
+                "IXI159-HH-1549/IXI159-HH-1549-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI160-HH-1637/IXI160-HH-1637-MRA.nii.gz",
+                "IXI160-HH-1637/IXI160-HH-1637-PD.nii.gz",
+                "IXI160-HH-1637/IXI160-HH-1637-T1.nii.gz",
+                "IXI160-HH-1637/IXI160-HH-1637-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI161-HH-2533/IXI161-HH-2533-MRA.nii.gz",
+                "IXI161-HH-2533/IXI161-HH-2533-PD.nii.gz",
+                "IXI161-HH-2533/IXI161-HH-2533-T1.nii.gz",
+                "IXI161-HH-2533/IXI161-HH-2533-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI162-HH-1548/IXI162-HH-1548-MRA.nii.gz",
+                "IXI162-HH-1548/IXI162-HH-1548-PD.nii.gz",
+                "IXI162-HH-1548/IXI162-HH-1548-T1.nii.gz",
+                "IXI162-HH-1548/IXI162-HH-1548-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI163-HH-1621/IXI163-HH-1621-MRA.nii.gz",
+                "IXI163-HH-1621/IXI163-HH-1621-PD.nii.gz",
+                "IXI163-HH-1621/IXI163-HH-1621-T1.nii.gz",
+                "IXI163-HH-1621/IXI163-HH-1621-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI164-Guys-0844/IXI164-Guys-0844-MRA.nii.gz",
+                "IXI164-Guys-0844/IXI164-Guys-0844-PD.nii.gz",
+                "IXI164-Guys-0844/IXI164-Guys-0844-T1.nii.gz",
+                "IXI164-Guys-0844/IXI164-Guys-0844-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI165-HH-1589/IXI165-HH-1589-MRA.nii.gz",
+                "IXI165-HH-1589/IXI165-HH-1589-PD.nii.gz",
+                "IXI165-HH-1589/IXI165-HH-1589-T1.nii.gz",
+                "IXI165-HH-1589/IXI165-HH-1589-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI166-Guys-0846/IXI166-Guys-0846-MRA.nii.gz",
+                "IXI166-Guys-0846/IXI166-Guys-0846-PD.nii.gz",
+                "IXI166-Guys-0846/IXI166-Guys-0846-T1.nii.gz",
+                "IXI166-Guys-0846/IXI166-Guys-0846-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI167-HH-1569/IXI167-HH-1569-MRA.nii.gz",
+                "IXI167-HH-1569/IXI167-HH-1569-PD.nii.gz",
+                "IXI167-HH-1569/IXI167-HH-1569-T1.nii.gz",
+                "IXI167-HH-1569/IXI167-HH-1569-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI168-HH-1607/IXI168-HH-1607-MRA.nii.gz",
+                "IXI168-HH-1607/IXI168-HH-1607-PD.nii.gz",
+                "IXI168-HH-1607/IXI168-HH-1607-T1.nii.gz",
+                "IXI168-HH-1607/IXI168-HH-1607-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI169-Guys-0842/IXI169-Guys-0842-MRA.nii.gz",
+                "IXI169-Guys-0842/IXI169-Guys-0842-PD.nii.gz",
+                "IXI169-Guys-0842/IXI169-Guys-0842-T1.nii.gz",
+                "IXI169-Guys-0842/IXI169-Guys-0842-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI172-Guys-0982/IXI172-Guys-0982-MRA.nii.gz",
+                "IXI172-Guys-0982/IXI172-Guys-0982-PD.nii.gz",
+                "IXI172-Guys-0982/IXI172-Guys-0982-T1.nii.gz",
+                "IXI172-Guys-0982/IXI172-Guys-0982-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI173-HH-1590/IXI173-HH-1590-MRA.nii.gz",
+                "IXI173-HH-1590/IXI173-HH-1590-PD.nii.gz",
+                "IXI173-HH-1590/IXI173-HH-1590-T1.nii.gz",
+                "IXI173-HH-1590/IXI173-HH-1590-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI174-HH-1571/IXI174-HH-1571-MRA.nii.gz",
+                "IXI174-HH-1571/IXI174-HH-1571-PD.nii.gz",
+                "IXI174-HH-1571/IXI174-HH-1571-T1.nii.gz",
+                "IXI174-HH-1571/IXI174-HH-1571-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI175-HH-1570/IXI175-HH-1570-MRA.nii.gz",
+                "IXI175-HH-1570/IXI175-HH-1570-PD.nii.gz",
+                "IXI175-HH-1570/IXI175-HH-1570-T1.nii.gz",
+                "IXI175-HH-1570/IXI175-HH-1570-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI176-HH-1604/IXI176-HH-1604-MRA.nii.gz",
+                "IXI176-HH-1604/IXI176-HH-1604-PD.nii.gz",
+                "IXI176-HH-1604/IXI176-HH-1604-T1.nii.gz",
+                "IXI176-HH-1604/IXI176-HH-1604-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI177-Guys-0831/IXI177-Guys-0831-MRA.nii.gz",
+                "IXI177-Guys-0831/IXI177-Guys-0831-PD.nii.gz",
+                "IXI177-Guys-0831/IXI177-Guys-0831-T1.nii.gz",
+                "IXI177-Guys-0831/IXI177-Guys-0831-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI180-HH-1605/IXI180-HH-1605-MRA.nii.gz",
+                "IXI180-HH-1605/IXI180-HH-1605-PD.nii.gz",
+                "IXI180-HH-1605/IXI180-HH-1605-T1.nii.gz",
+                "IXI180-HH-1605/IXI180-HH-1605-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI181-Guys-0790/IXI181-Guys-0790-MRA.nii.gz",
+                "IXI181-Guys-0790/IXI181-Guys-0790-PD.nii.gz",
+                "IXI181-Guys-0790/IXI181-Guys-0790-T1.nii.gz",
+                "IXI181-Guys-0790/IXI181-Guys-0790-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI183-Guys-0791/IXI183-Guys-0791-MRA.nii.gz",
+                "IXI183-Guys-0791/IXI183-Guys-0791-PD.nii.gz",
+                "IXI183-Guys-0791/IXI183-Guys-0791-T1.nii.gz",
+                "IXI183-Guys-0791/IXI183-Guys-0791-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI184-Guys-0794/IXI184-Guys-0794-MRA.nii.gz",
+                "IXI184-Guys-0794/IXI184-Guys-0794-PD.nii.gz",
+                "IXI184-Guys-0794/IXI184-Guys-0794-T1.nii.gz",
+                "IXI184-Guys-0794/IXI184-Guys-0794-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI185-Guys-0795/IXI185-Guys-0795-MRA.nii.gz",
+                "IXI185-Guys-0795/IXI185-Guys-0795-PD.nii.gz",
+                "IXI185-Guys-0795/IXI185-Guys-0795-T1.nii.gz",
+                "IXI185-Guys-0795/IXI185-Guys-0795-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI186-Guys-0796/IXI186-Guys-0796-MRA.nii.gz",
+                "IXI186-Guys-0796/IXI186-Guys-0796-PD.nii.gz",
+                "IXI186-Guys-0796/IXI186-Guys-0796-T1.nii.gz",
+                "IXI186-Guys-0796/IXI186-Guys-0796-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI188-Guys-0798/IXI188-Guys-0798-MRA.nii.gz",
+                "IXI188-Guys-0798/IXI188-Guys-0798-PD.nii.gz",
+                "IXI188-Guys-0798/IXI188-Guys-0798-T1.nii.gz",
+                "IXI188-Guys-0798/IXI188-Guys-0798-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI189-Guys-0799/IXI189-Guys-0799-MRA.nii.gz",
+                "IXI189-Guys-0799/IXI189-Guys-0799-PD.nii.gz",
+                "IXI189-Guys-0799/IXI189-Guys-0799-T1.nii.gz",
+                "IXI189-Guys-0799/IXI189-Guys-0799-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI191-Guys-0801/IXI191-Guys-0801-MRA.nii.gz",
+                "IXI191-Guys-0801/IXI191-Guys-0801-PD.nii.gz",
+                "IXI191-Guys-0801/IXI191-Guys-0801-T1.nii.gz",
+                "IXI191-Guys-0801/IXI191-Guys-0801-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI192-Guys-0878/IXI192-Guys-0878-MRA.nii.gz",
+                "IXI192-Guys-0878/IXI192-Guys-0878-PD.nii.gz",
+                "IXI192-Guys-0878/IXI192-Guys-0878-T1.nii.gz",
+                "IXI192-Guys-0878/IXI192-Guys-0878-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI194-Guys-0818/IXI194-Guys-0818-MRA.nii.gz",
+                "IXI194-Guys-0818/IXI194-Guys-0818-PD.nii.gz",
+                "IXI194-Guys-0818/IXI194-Guys-0818-T1.nii.gz",
+                "IXI194-Guys-0818/IXI194-Guys-0818-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI195-HH-1620/IXI195-HH-1620-MRA.nii.gz",
+                "IXI195-HH-1620/IXI195-HH-1620-PD.nii.gz",
+                "IXI195-HH-1620/IXI195-HH-1620-T1.nii.gz",
+                "IXI195-HH-1620/IXI195-HH-1620-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI196-Guys-0805/IXI196-Guys-0805-MRA.nii.gz",
+                "IXI196-Guys-0805/IXI196-Guys-0805-PD.nii.gz",
+                "IXI196-Guys-0805/IXI196-Guys-0805-T1.nii.gz",
+                "IXI196-Guys-0805/IXI196-Guys-0805-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI197-Guys-0811/IXI197-Guys-0811-MRA.nii.gz",
+                "IXI197-Guys-0811/IXI197-Guys-0811-PD.nii.gz",
+                "IXI197-Guys-0811/IXI197-Guys-0811-T1.nii.gz",
+                "IXI197-Guys-0811/IXI197-Guys-0811-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI198-Guys-0803/IXI198-Guys-0803-MRA.nii.gz",
+                "IXI198-Guys-0803/IXI198-Guys-0803-PD.nii.gz",
+                "IXI198-Guys-0803/IXI198-Guys-0803-T1.nii.gz",
+                "IXI198-Guys-0803/IXI198-Guys-0803-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI199-Guys-0802/IXI199-Guys-0802-MRA.nii.gz",
+                "IXI199-Guys-0802/IXI199-Guys-0802-PD.nii.gz",
+                "IXI199-Guys-0802/IXI199-Guys-0802-T1.nii.gz",
+                "IXI199-Guys-0802/IXI199-Guys-0802-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI200-Guys-0812/IXI200-Guys-0812-MRA.nii.gz",
+                "IXI200-Guys-0812/IXI200-Guys-0812-PD.nii.gz",
+                "IXI200-Guys-0812/IXI200-Guys-0812-T1.nii.gz",
+                "IXI200-Guys-0812/IXI200-Guys-0812-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI201-HH-1588/IXI201-HH-1588-MRA.nii.gz",
+                "IXI201-HH-1588/IXI201-HH-1588-PD.nii.gz",
+                "IXI201-HH-1588/IXI201-HH-1588-T1.nii.gz",
+                "IXI201-HH-1588/IXI201-HH-1588-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI202-HH-1526/IXI202-HH-1526-MRA.nii.gz",
+                "IXI202-HH-1526/IXI202-HH-1526-PD.nii.gz",
+                "IXI202-HH-1526/IXI202-HH-1526-T1.nii.gz",
+                "IXI202-HH-1526/IXI202-HH-1526-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI204-HH-1651/IXI204-HH-1651-MRA.nii.gz",
+                "IXI204-HH-1651/IXI204-HH-1651-PD.nii.gz",
+                "IXI204-HH-1651/IXI204-HH-1651-T1.nii.gz",
+                "IXI204-HH-1651/IXI204-HH-1651-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI205-HH-1649/IXI205-HH-1649-MRA.nii.gz",
+                "IXI205-HH-1649/IXI205-HH-1649-PD.nii.gz",
+                "IXI205-HH-1649/IXI205-HH-1649-T1.nii.gz",
+                "IXI205-HH-1649/IXI205-HH-1649-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI206-HH-1650/IXI206-HH-1650-MRA.nii.gz",
+                "IXI206-HH-1650/IXI206-HH-1650-PD.nii.gz",
+                "IXI206-HH-1650/IXI206-HH-1650-T1.nii.gz",
+                "IXI206-HH-1650/IXI206-HH-1650-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI207-Guys-0809/IXI207-Guys-0809-MRA.nii.gz",
+                "IXI207-Guys-0809/IXI207-Guys-0809-PD.nii.gz",
+                "IXI207-Guys-0809/IXI207-Guys-0809-T1.nii.gz",
+                "IXI207-Guys-0809/IXI207-Guys-0809-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI208-Guys-0808/IXI208-Guys-0808-MRA.nii.gz",
+                "IXI208-Guys-0808/IXI208-Guys-0808-PD.nii.gz",
+                "IXI208-Guys-0808/IXI208-Guys-0808-T1.nii.gz",
+                "IXI208-Guys-0808/IXI208-Guys-0808-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI209-Guys-0804/IXI209-Guys-0804-MRA.nii.gz",
+                "IXI209-Guys-0804/IXI209-Guys-0804-PD.nii.gz",
+                "IXI209-Guys-0804/IXI209-Guys-0804-T1.nii.gz",
+                "IXI209-Guys-0804/IXI209-Guys-0804-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI210-Guys-0856/IXI210-Guys-0856-MRA.nii.gz",
+                "IXI210-Guys-0856/IXI210-Guys-0856-PD.nii.gz",
+                "IXI210-Guys-0856/IXI210-Guys-0856-T1.nii.gz",
+                "IXI210-Guys-0856/IXI210-Guys-0856-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI211-HH-1568/IXI211-HH-1568-MRA.nii.gz",
+                "IXI211-HH-1568/IXI211-HH-1568-PD.nii.gz",
+                "IXI211-HH-1568/IXI211-HH-1568-T1.nii.gz",
+                "IXI211-HH-1568/IXI211-HH-1568-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI212-HH-1643/IXI212-HH-1643-MRA.nii.gz",
+                "IXI212-HH-1643/IXI212-HH-1643-PD.nii.gz",
+                "IXI212-HH-1643/IXI212-HH-1643-T1.nii.gz",
+                "IXI212-HH-1643/IXI212-HH-1643-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI214-HH-1636/IXI214-HH-1636-MRA.nii.gz",
+                "IXI214-HH-1636/IXI214-HH-1636-PD.nii.gz",
+                "IXI214-HH-1636/IXI214-HH-1636-T1.nii.gz",
+                "IXI214-HH-1636/IXI214-HH-1636-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI216-HH-1635/IXI216-HH-1635-MRA.nii.gz",
+                "IXI216-HH-1635/IXI216-HH-1635-PD.nii.gz",
+                "IXI216-HH-1635/IXI216-HH-1635-T1.nii.gz",
+                "IXI216-HH-1635/IXI216-HH-1635-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI217-HH-1638/IXI217-HH-1638-MRA.nii.gz",
+                "IXI217-HH-1638/IXI217-HH-1638-PD.nii.gz",
+                "IXI217-HH-1638/IXI217-HH-1638-T1.nii.gz",
+                "IXI217-HH-1638/IXI217-HH-1638-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI218-HH-1815/IXI218-HH-1815-MRA.nii.gz",
+                "IXI218-HH-1815/IXI218-HH-1815-PD.nii.gz",
+                "IXI218-HH-1815/IXI218-HH-1815-T1.nii.gz",
+                "IXI218-HH-1815/IXI218-HH-1815-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI219-Guys-0894/IXI219-Guys-0894-MRA.nii.gz",
+                "IXI219-Guys-0894/IXI219-Guys-0894-PD.nii.gz",
+                "IXI219-Guys-0894/IXI219-Guys-0894-T1.nii.gz",
+                "IXI219-Guys-0894/IXI219-Guys-0894-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI221-HH-1606/IXI221-HH-1606-MRA.nii.gz",
+                "IXI221-HH-1606/IXI221-HH-1606-PD.nii.gz",
+                "IXI221-HH-1606/IXI221-HH-1606-T1.nii.gz",
+                "IXI221-HH-1606/IXI221-HH-1606-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI222-Guys-0819/IXI222-Guys-0819-MRA.nii.gz",
+                "IXI222-Guys-0819/IXI222-Guys-0819-PD.nii.gz",
+                "IXI222-Guys-0819/IXI222-Guys-0819-T1.nii.gz",
+                "IXI222-Guys-0819/IXI222-Guys-0819-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI224-Guys-0823/IXI224-Guys-0823-MRA.nii.gz",
+                "IXI224-Guys-0823/IXI224-Guys-0823-PD.nii.gz",
+                "IXI224-Guys-0823/IXI224-Guys-0823-T1.nii.gz",
+                "IXI224-Guys-0823/IXI224-Guys-0823-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI226-HH-1618/IXI226-HH-1618-MRA.nii.gz",
+                "IXI226-HH-1618/IXI226-HH-1618-PD.nii.gz",
+                "IXI226-HH-1618/IXI226-HH-1618-T1.nii.gz",
+                "IXI226-HH-1618/IXI226-HH-1618-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI227-Guys-0813/IXI227-Guys-0813-MRA.nii.gz",
+                "IXI227-Guys-0813/IXI227-Guys-0813-PD.nii.gz",
+                "IXI227-Guys-0813/IXI227-Guys-0813-T1.nii.gz",
+                "IXI227-Guys-0813/IXI227-Guys-0813-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI228-Guys-0822/IXI228-Guys-0822-MRA.nii.gz",
+                "IXI228-Guys-0822/IXI228-Guys-0822-PD.nii.gz",
+                "IXI228-Guys-0822/IXI228-Guys-0822-T1.nii.gz",
+                "IXI228-Guys-0822/IXI228-Guys-0822-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI229-Guys-0980/IXI229-Guys-0980-MRA.nii.gz",
+                "IXI229-Guys-0980/IXI229-Guys-0980-PD.nii.gz",
+                "IXI229-Guys-0980/IXI229-Guys-0980-T1.nii.gz",
+                "IXI229-Guys-0980/IXI229-Guys-0980-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI230-IOP-0869/IXI230-IOP-0869-MRA.nii.gz",
+                "IXI230-IOP-0869/IXI230-IOP-0869-PD.nii.gz",
+                "IXI230-IOP-0869/IXI230-IOP-0869-T1.nii.gz",
+                "IXI230-IOP-0869/IXI230-IOP-0869-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI231-IOP-0866/IXI231-IOP-0866-MRA.nii.gz",
+                "IXI231-IOP-0866/IXI231-IOP-0866-PD.nii.gz",
+                "IXI231-IOP-0866/IXI231-IOP-0866-T1.nii.gz",
+                "IXI231-IOP-0866/IXI231-IOP-0866-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI232-IOP-0898/IXI232-IOP-0898-MRA.nii.gz",
+                "IXI232-IOP-0898/IXI232-IOP-0898-PD.nii.gz",
+                "IXI232-IOP-0898/IXI232-IOP-0898-T1.nii.gz",
+                "IXI232-IOP-0898/IXI232-IOP-0898-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI234-IOP-0870/IXI234-IOP-0870-MRA.nii.gz",
+                "IXI234-IOP-0870/IXI234-IOP-0870-PD.nii.gz",
+                "IXI234-IOP-0870/IXI234-IOP-0870-T1.nii.gz",
+                "IXI234-IOP-0870/IXI234-IOP-0870-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI236-Guys-0817/IXI236-Guys-0817-MRA.nii.gz",
+                "IXI236-Guys-0817/IXI236-Guys-0817-PD.nii.gz",
+                "IXI236-Guys-0817/IXI236-Guys-0817-T1.nii.gz",
+                "IXI236-Guys-0817/IXI236-Guys-0817-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI237-Guys-1049/IXI237-Guys-1049-MRA.nii.gz",
+                "IXI237-Guys-1049/IXI237-Guys-1049-PD.nii.gz",
+                "IXI237-Guys-1049/IXI237-Guys-1049-T1.nii.gz",
+                "IXI237-Guys-1049/IXI237-Guys-1049-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI239-HH-2296/IXI239-HH-2296-MRA.nii.gz",
+                "IXI239-HH-2296/IXI239-HH-2296-PD.nii.gz",
+                "IXI239-HH-2296/IXI239-HH-2296-T1.nii.gz",
+                "IXI239-HH-2296/IXI239-HH-2296-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI240-Guys-0834/IXI240-Guys-0834-MRA.nii.gz",
+                "IXI240-Guys-0834/IXI240-Guys-0834-PD.nii.gz",
+                "IXI240-Guys-0834/IXI240-Guys-0834-T1.nii.gz",
+                "IXI240-Guys-0834/IXI240-Guys-0834-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI241-Guys-0833/IXI241-Guys-0833-MRA.nii.gz",
+                "IXI241-Guys-0833/IXI241-Guys-0833-PD.nii.gz",
+                "IXI241-Guys-0833/IXI241-Guys-0833-T1.nii.gz",
+                "IXI241-Guys-0833/IXI241-Guys-0833-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI242-HH-1722/IXI242-HH-1722-MRA.nii.gz",
+                "IXI242-HH-1722/IXI242-HH-1722-PD.nii.gz",
+                "IXI242-HH-1722/IXI242-HH-1722-T1.nii.gz",
+                "IXI242-HH-1722/IXI242-HH-1722-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI244-Guys-0841/IXI244-Guys-0841-MRA.nii.gz",
+                "IXI244-Guys-0841/IXI244-Guys-0841-PD.nii.gz",
+                "IXI244-Guys-0841/IXI244-Guys-0841-T1.nii.gz",
+                "IXI244-Guys-0841/IXI244-Guys-0841-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI247-Guys-0838/IXI247-Guys-0838-MRA.nii.gz",
+                "IXI247-Guys-0838/IXI247-Guys-0838-PD.nii.gz",
+                "IXI247-Guys-0838/IXI247-Guys-0838-T1.nii.gz",
+                "IXI247-Guys-0838/IXI247-Guys-0838-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI248-HH-1972/IXI248-HH-1972-MRA.nii.gz",
+                "IXI248-HH-1972/IXI248-HH-1972-PD.nii.gz",
+                "IXI248-HH-1972/IXI248-HH-1972-T1.nii.gz",
+                "IXI248-HH-1972/IXI248-HH-1972-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI249-Guys-1072/IXI249-Guys-1072-MRA.nii.gz",
+                "IXI249-Guys-1072/IXI249-Guys-1072-PD.nii.gz",
+                "IXI249-Guys-1072/IXI249-Guys-1072-T1.nii.gz",
+                "IXI249-Guys-1072/IXI249-Guys-1072-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI250-Guys-0836/IXI250-Guys-0836-MRA.nii.gz",
+                "IXI250-Guys-0836/IXI250-Guys-0836-PD.nii.gz",
+                "IXI250-Guys-0836/IXI250-Guys-0836-T1.nii.gz",
+                "IXI250-Guys-0836/IXI250-Guys-0836-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI251-Guys-1055/IXI251-Guys-1055-MRA.nii.gz",
+                "IXI251-Guys-1055/IXI251-Guys-1055-PD.nii.gz",
+                "IXI251-Guys-1055/IXI251-Guys-1055-T1.nii.gz",
+                "IXI251-Guys-1055/IXI251-Guys-1055-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI252-HH-1693/IXI252-HH-1693-MRA.nii.gz",
+                "IXI252-HH-1693/IXI252-HH-1693-PD.nii.gz",
+                "IXI252-HH-1693/IXI252-HH-1693-T1.nii.gz",
+                "IXI252-HH-1693/IXI252-HH-1693-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI253-HH-1694/IXI253-HH-1694-MRA.nii.gz",
+                "IXI253-HH-1694/IXI253-HH-1694-PD.nii.gz",
+                "IXI253-HH-1694/IXI253-HH-1694-T1.nii.gz",
+                "IXI253-HH-1694/IXI253-HH-1694-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI254-HH-1705/IXI254-HH-1705-MRA.nii.gz",
+                "IXI254-HH-1705/IXI254-HH-1705-PD.nii.gz",
+                "IXI254-HH-1705/IXI254-HH-1705-T1.nii.gz",
+                "IXI254-HH-1705/IXI254-HH-1705-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI256-HH-1723/IXI256-HH-1723-MRA.nii.gz",
+                "IXI256-HH-1723/IXI256-HH-1723-PD.nii.gz",
+                "IXI256-HH-1723/IXI256-HH-1723-T1.nii.gz",
+                "IXI256-HH-1723/IXI256-HH-1723-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI257-HH-1724/IXI257-HH-1724-MRA.nii.gz",
+                "IXI257-HH-1724/IXI257-HH-1724-PD.nii.gz",
+                "IXI257-HH-1724/IXI257-HH-1724-T1.nii.gz",
+                "IXI257-HH-1724/IXI257-HH-1724-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI258-HH-1769/IXI258-HH-1769-MRA.nii.gz",
+                "IXI258-HH-1769/IXI258-HH-1769-PD.nii.gz",
+                "IXI258-HH-1769/IXI258-HH-1769-T1.nii.gz",
+                "IXI258-HH-1769/IXI258-HH-1769-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI259-HH-1804/IXI259-HH-1804-MRA.nii.gz",
+                "IXI259-HH-1804/IXI259-HH-1804-PD.nii.gz",
+                "IXI259-HH-1804/IXI259-HH-1804-T1.nii.gz",
+                "IXI259-HH-1804/IXI259-HH-1804-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI260-HH-1805/IXI260-HH-1805-MRA.nii.gz",
+                "IXI260-HH-1805/IXI260-HH-1805-PD.nii.gz",
+                "IXI260-HH-1805/IXI260-HH-1805-T1.nii.gz",
+                "IXI260-HH-1805/IXI260-HH-1805-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI261-HH-1704/IXI261-HH-1704-MRA.nii.gz",
+                "IXI261-HH-1704/IXI261-HH-1704-PD.nii.gz",
+                "IXI261-HH-1704/IXI261-HH-1704-T1.nii.gz",
+                "IXI261-HH-1704/IXI261-HH-1704-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI262-HH-1861/IXI262-HH-1861-MRA.nii.gz",
+                "IXI262-HH-1861/IXI262-HH-1861-PD.nii.gz",
+                "IXI262-HH-1861/IXI262-HH-1861-T1.nii.gz",
+                "IXI262-HH-1861/IXI262-HH-1861-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI263-HH-1684/IXI263-HH-1684-MRA.nii.gz",
+                "IXI263-HH-1684/IXI263-HH-1684-PD.nii.gz",
+                "IXI263-HH-1684/IXI263-HH-1684-T1.nii.gz",
+                "IXI263-HH-1684/IXI263-HH-1684-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI264-Guys-0854/IXI264-Guys-0854-MRA.nii.gz",
+                "IXI264-Guys-0854/IXI264-Guys-0854-PD.nii.gz",
+                "IXI264-Guys-0854/IXI264-Guys-0854-T1.nii.gz",
+                "IXI264-Guys-0854/IXI264-Guys-0854-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI265-Guys-0845/IXI265-Guys-0845-MRA.nii.gz",
+                "IXI265-Guys-0845/IXI265-Guys-0845-PD.nii.gz",
+                "IXI265-Guys-0845/IXI265-Guys-0845-T1.nii.gz",
+                "IXI265-Guys-0845/IXI265-Guys-0845-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI267-HH-1772/IXI267-HH-1772-MRA.nii.gz",
+                "IXI267-HH-1772/IXI267-HH-1772-PD.nii.gz",
+                "IXI267-HH-1772/IXI267-HH-1772-T1.nii.gz",
+                "IXI267-HH-1772/IXI267-HH-1772-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI268-Guys-0858/IXI268-Guys-0858-MRA.nii.gz",
+                "IXI268-Guys-0858/IXI268-Guys-0858-PD.nii.gz",
+                "IXI268-Guys-0858/IXI268-Guys-0858-T1.nii.gz",
+                "IXI268-Guys-0858/IXI268-Guys-0858-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI269-Guys-0839/IXI269-Guys-0839-MRA.nii.gz",
+                "IXI269-Guys-0839/IXI269-Guys-0839-PD.nii.gz",
+                "IXI269-Guys-0839/IXI269-Guys-0839-T1.nii.gz",
+                "IXI269-Guys-0839/IXI269-Guys-0839-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI270-Guys-0847/IXI270-Guys-0847-MRA.nii.gz",
+                "IXI270-Guys-0847/IXI270-Guys-0847-PD.nii.gz",
+                "IXI270-Guys-0847/IXI270-Guys-0847-T1.nii.gz",
+                "IXI270-Guys-0847/IXI270-Guys-0847-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI274-HH-2294/IXI274-HH-2294-MRA.nii.gz",
+                "IXI274-HH-2294/IXI274-HH-2294-PD.nii.gz",
+                "IXI274-HH-2294/IXI274-HH-2294-T1.nii.gz",
+                "IXI274-HH-2294/IXI274-HH-2294-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI276-HH-1840/IXI276-HH-1840-MRA.nii.gz",
+                "IXI276-HH-1840/IXI276-HH-1840-PD.nii.gz",
+                "IXI276-HH-1840/IXI276-HH-1840-T1.nii.gz",
+                "IXI276-HH-1840/IXI276-HH-1840-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI277-HH-1770/IXI277-HH-1770-MRA.nii.gz",
+                "IXI277-HH-1770/IXI277-HH-1770-PD.nii.gz",
+                "IXI277-HH-1770/IXI277-HH-1770-T1.nii.gz",
+                "IXI277-HH-1770/IXI277-HH-1770-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI278-HH-1771/IXI278-HH-1771-MRA.nii.gz",
+                "IXI278-HH-1771/IXI278-HH-1771-PD.nii.gz",
+                "IXI278-HH-1771/IXI278-HH-1771-T1.nii.gz",
+                "IXI278-HH-1771/IXI278-HH-1771-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI279-Guys-1044/IXI279-Guys-1044-MRA.nii.gz",
+                "IXI279-Guys-1044/IXI279-Guys-1044-PD.nii.gz",
+                "IXI279-Guys-1044/IXI279-Guys-1044-T1.nii.gz",
+                "IXI279-Guys-1044/IXI279-Guys-1044-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI280-HH-1860/IXI280-HH-1860-MRA.nii.gz",
+                "IXI280-HH-1860/IXI280-HH-1860-PD.nii.gz",
+                "IXI280-HH-1860/IXI280-HH-1860-T1.nii.gz",
+                "IXI280-HH-1860/IXI280-HH-1860-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI282-HH-2025/IXI282-HH-2025-MRA.nii.gz",
+                "IXI282-HH-2025/IXI282-HH-2025-PD.nii.gz",
+                "IXI282-HH-2025/IXI282-HH-2025-T1.nii.gz",
+                "IXI282-HH-2025/IXI282-HH-2025-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI284-HH-2354/IXI284-HH-2354-MRA.nii.gz",
+                "IXI284-HH-2354/IXI284-HH-2354-PD.nii.gz",
+                "IXI284-HH-2354/IXI284-HH-2354-T1.nii.gz",
+                "IXI284-HH-2354/IXI284-HH-2354-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI285-Guys-0857/IXI285-Guys-0857-MRA.nii.gz",
+                "IXI285-Guys-0857/IXI285-Guys-0857-PD.nii.gz",
+                "IXI285-Guys-0857/IXI285-Guys-0857-T1.nii.gz",
+                "IXI285-Guys-0857/IXI285-Guys-0857-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI286-Guys-0859/IXI286-Guys-0859-MRA.nii.gz",
+                "IXI286-Guys-0859/IXI286-Guys-0859-PD.nii.gz",
+                "IXI286-Guys-0859/IXI286-Guys-0859-T1.nii.gz",
+                "IXI286-Guys-0859/IXI286-Guys-0859-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI287-Guys-0863/IXI287-Guys-0863-MRA.nii.gz",
+                "IXI287-Guys-0863/IXI287-Guys-0863-PD.nii.gz",
+                "IXI287-Guys-0863/IXI287-Guys-0863-T1.nii.gz",
+                "IXI287-Guys-0863/IXI287-Guys-0863-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI288-Guys-0879/IXI288-Guys-0879-MRA.nii.gz",
+                "IXI288-Guys-0879/IXI288-Guys-0879-PD.nii.gz",
+                "IXI288-Guys-0879/IXI288-Guys-0879-T1.nii.gz",
+                "IXI288-Guys-0879/IXI288-Guys-0879-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI289-Guys-0864/IXI289-Guys-0864-MRA.nii.gz",
+                "IXI289-Guys-0864/IXI289-Guys-0864-PD.nii.gz",
+                "IXI289-Guys-0864/IXI289-Guys-0864-T1.nii.gz",
+                "IXI289-Guys-0864/IXI289-Guys-0864-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI290-IOP-0874/IXI290-IOP-0874-MRA.nii.gz",
+                "IXI290-IOP-0874/IXI290-IOP-0874-PD.nii.gz",
+                "IXI290-IOP-0874/IXI290-IOP-0874-T1.nii.gz",
+                "IXI290-IOP-0874/IXI290-IOP-0874-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI292-IOP-0877/IXI292-IOP-0877-MRA.nii.gz",
+                "IXI292-IOP-0877/IXI292-IOP-0877-PD.nii.gz",
+                "IXI292-IOP-0877/IXI292-IOP-0877-T1.nii.gz",
+                "IXI292-IOP-0877/IXI292-IOP-0877-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI293-IOP-0876/IXI293-IOP-0876-MRA.nii.gz",
+                "IXI293-IOP-0876/IXI293-IOP-0876-PD.nii.gz",
+                "IXI293-IOP-0876/IXI293-IOP-0876-T1.nii.gz",
+                "IXI293-IOP-0876/IXI293-IOP-0876-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI294-IOP-0868/IXI294-IOP-0868-MRA.nii.gz",
+                "IXI294-IOP-0868/IXI294-IOP-0868-PD.nii.gz",
+                "IXI294-IOP-0868/IXI294-IOP-0868-T1.nii.gz",
+                "IXI294-IOP-0868/IXI294-IOP-0868-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI295-HH-1814/IXI295-HH-1814-MRA.nii.gz",
+                "IXI295-HH-1814/IXI295-HH-1814-PD.nii.gz",
+                "IXI295-HH-1814/IXI295-HH-1814-T1.nii.gz",
+                "IXI295-HH-1814/IXI295-HH-1814-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI296-HH-1970/IXI296-HH-1970-MRA.nii.gz",
+                "IXI296-HH-1970/IXI296-HH-1970-PD.nii.gz",
+                "IXI296-HH-1970/IXI296-HH-1970-T1.nii.gz",
+                "IXI296-HH-1970/IXI296-HH-1970-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI297-Guys-0886/IXI297-Guys-0886-MRA.nii.gz",
+                "IXI297-Guys-0886/IXI297-Guys-0886-PD.nii.gz",
+                "IXI297-Guys-0886/IXI297-Guys-0886-T1.nii.gz",
+                "IXI297-Guys-0886/IXI297-Guys-0886-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI298-Guys-0861/IXI298-Guys-0861-MRA.nii.gz",
+                "IXI298-Guys-0861/IXI298-Guys-0861-PD.nii.gz",
+                "IXI298-Guys-0861/IXI298-Guys-0861-T1.nii.gz",
+                "IXI298-Guys-0861/IXI298-Guys-0861-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI299-Guys-0893/IXI299-Guys-0893-MRA.nii.gz",
+                "IXI299-Guys-0893/IXI299-Guys-0893-PD.nii.gz",
+                "IXI299-Guys-0893/IXI299-Guys-0893-T1.nii.gz",
+                "IXI299-Guys-0893/IXI299-Guys-0893-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI300-Guys-0880/IXI300-Guys-0880-MRA.nii.gz",
+                "IXI300-Guys-0880/IXI300-Guys-0880-PD.nii.gz",
+                "IXI300-Guys-0880/IXI300-Guys-0880-T1.nii.gz",
+                "IXI300-Guys-0880/IXI300-Guys-0880-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI303-IOP-0968/IXI303-IOP-0968-MRA.nii.gz",
+                "IXI303-IOP-0968/IXI303-IOP-0968-PD.nii.gz",
+                "IXI303-IOP-0968/IXI303-IOP-0968-T1.nii.gz",
+                "IXI303-IOP-0968/IXI303-IOP-0968-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI304-Guys-0862/IXI304-Guys-0862-MRA.nii.gz",
+                "IXI304-Guys-0862/IXI304-Guys-0862-PD.nii.gz",
+                "IXI304-Guys-0862/IXI304-Guys-0862-T1.nii.gz",
+                "IXI304-Guys-0862/IXI304-Guys-0862-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI305-IOP-0871/IXI305-IOP-0871-MRA.nii.gz",
+                "IXI305-IOP-0871/IXI305-IOP-0871-PD.nii.gz",
+                "IXI305-IOP-0871/IXI305-IOP-0871-T1.nii.gz",
+                "IXI305-IOP-0871/IXI305-IOP-0871-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI307-IOP-0872/IXI307-IOP-0872-MRA.nii.gz",
+                "IXI307-IOP-0872/IXI307-IOP-0872-PD.nii.gz",
+                "IXI307-IOP-0872/IXI307-IOP-0872-T1.nii.gz",
+                "IXI307-IOP-0872/IXI307-IOP-0872-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI310-IOP-0890/IXI310-IOP-0890-MRA.nii.gz",
+                "IXI310-IOP-0890/IXI310-IOP-0890-PD.nii.gz",
+                "IXI310-IOP-0890/IXI310-IOP-0890-T1.nii.gz",
+                "IXI310-IOP-0890/IXI310-IOP-0890-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI311-Guys-0885/IXI311-Guys-0885-MRA.nii.gz",
+                "IXI311-Guys-0885/IXI311-Guys-0885-PD.nii.gz",
+                "IXI311-Guys-0885/IXI311-Guys-0885-T1.nii.gz",
+                "IXI311-Guys-0885/IXI311-Guys-0885-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI312-Guys-0887/IXI312-Guys-0887-MRA.nii.gz",
+                "IXI312-Guys-0887/IXI312-Guys-0887-PD.nii.gz",
+                "IXI312-Guys-0887/IXI312-Guys-0887-T1.nii.gz",
+                "IXI312-Guys-0887/IXI312-Guys-0887-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI313-HH-2241/IXI313-HH-2241-MRA.nii.gz",
+                "IXI313-HH-2241/IXI313-HH-2241-PD.nii.gz",
+                "IXI313-HH-2241/IXI313-HH-2241-T1.nii.gz",
+                "IXI313-HH-2241/IXI313-HH-2241-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI314-IOP-0889/IXI314-IOP-0889-MRA.nii.gz",
+                "IXI314-IOP-0889/IXI314-IOP-0889-PD.nii.gz",
+                "IXI314-IOP-0889/IXI314-IOP-0889-T1.nii.gz",
+                "IXI314-IOP-0889/IXI314-IOP-0889-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI315-IOP-0888/IXI315-IOP-0888-MRA.nii.gz",
+                "IXI315-IOP-0888/IXI315-IOP-0888-PD.nii.gz",
+                "IXI315-IOP-0888/IXI315-IOP-0888-T1.nii.gz",
+                "IXI315-IOP-0888/IXI315-IOP-0888-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI316-HH-1862/IXI316-HH-1862-MRA.nii.gz",
+                "IXI316-HH-1862/IXI316-HH-1862-PD.nii.gz",
+                "IXI316-HH-1862/IXI316-HH-1862-T1.nii.gz",
+                "IXI316-HH-1862/IXI316-HH-1862-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI317-Guys-0896/IXI317-Guys-0896-MRA.nii.gz",
+                "IXI317-Guys-0896/IXI317-Guys-0896-PD.nii.gz",
+                "IXI317-Guys-0896/IXI317-Guys-0896-T1.nii.gz",
+                "IXI317-Guys-0896/IXI317-Guys-0896-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI318-Guys-0895/IXI318-Guys-0895-MRA.nii.gz",
+                "IXI318-Guys-0895/IXI318-Guys-0895-PD.nii.gz",
+                "IXI318-Guys-0895/IXI318-Guys-0895-T1.nii.gz",
+                "IXI318-Guys-0895/IXI318-Guys-0895-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI319-Guys-0901/IXI319-Guys-0901-MRA.nii.gz",
+                "IXI319-Guys-0901/IXI319-Guys-0901-PD.nii.gz",
+                "IXI319-Guys-0901/IXI319-Guys-0901-T1.nii.gz",
+                "IXI319-Guys-0901/IXI319-Guys-0901-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI320-Guys-0902/IXI320-Guys-0902-MRA.nii.gz",
+                "IXI320-Guys-0902/IXI320-Guys-0902-PD.nii.gz",
+                "IXI320-Guys-0902/IXI320-Guys-0902-T1.nii.gz",
+                "IXI320-Guys-0902/IXI320-Guys-0902-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI321-Guys-0903/IXI321-Guys-0903-MRA.nii.gz",
+                "IXI321-Guys-0903/IXI321-Guys-0903-PD.nii.gz",
+                "IXI321-Guys-0903/IXI321-Guys-0903-T1.nii.gz",
+                "IXI321-Guys-0903/IXI321-Guys-0903-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI322-IOP-0891/IXI322-IOP-0891-MRA.nii.gz",
+                "IXI322-IOP-0891/IXI322-IOP-0891-PD.nii.gz",
+                "IXI322-IOP-0891/IXI322-IOP-0891-T1.nii.gz",
+                "IXI322-IOP-0891/IXI322-IOP-0891-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI324-Guys-0922/IXI324-Guys-0922-MRA.nii.gz",
+                "IXI324-Guys-0922/IXI324-Guys-0922-PD.nii.gz",
+                "IXI324-Guys-0922/IXI324-Guys-0922-T1.nii.gz",
+                "IXI324-Guys-0922/IXI324-Guys-0922-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI325-Guys-0911/IXI325-Guys-0911-MRA.nii.gz",
+                "IXI325-Guys-0911/IXI325-Guys-0911-PD.nii.gz",
+                "IXI325-Guys-0911/IXI325-Guys-0911-T1.nii.gz",
+                "IXI325-Guys-0911/IXI325-Guys-0911-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI326-Guys-0907/IXI326-Guys-0907-MRA.nii.gz",
+                "IXI326-Guys-0907/IXI326-Guys-0907-PD.nii.gz",
+                "IXI326-Guys-0907/IXI326-Guys-0907-T1.nii.gz",
+                "IXI326-Guys-0907/IXI326-Guys-0907-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI327-HH-1999/IXI327-HH-1999-MRA.nii.gz",
+                "IXI327-HH-1999/IXI327-HH-1999-PD.nii.gz",
+                "IXI327-HH-1999/IXI327-HH-1999-T1.nii.gz",
+                "IXI327-HH-1999/IXI327-HH-1999-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI328-HH-2295/IXI328-HH-2295-MRA.nii.gz",
+                "IXI328-HH-2295/IXI328-HH-2295-PD.nii.gz",
+                "IXI328-HH-2295/IXI328-HH-2295-T1.nii.gz",
+                "IXI328-HH-2295/IXI328-HH-2295-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI330-Guys-0881/IXI330-Guys-0881-MRA.nii.gz",
+                "IXI330-Guys-0881/IXI330-Guys-0881-PD.nii.gz",
+                "IXI330-Guys-0881/IXI330-Guys-0881-T1.nii.gz",
+                "IXI330-Guys-0881/IXI330-Guys-0881-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI331-IOP-0892/IXI331-IOP-0892-MRA.nii.gz",
+                "IXI331-IOP-0892/IXI331-IOP-0892-PD.nii.gz",
+                "IXI331-IOP-0892/IXI331-IOP-0892-T1.nii.gz",
+                "IXI331-IOP-0892/IXI331-IOP-0892-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI332-IOP-1134/IXI332-IOP-1134-MRA.nii.gz",
+                "IXI332-IOP-1134/IXI332-IOP-1134-PD.nii.gz",
+                "IXI332-IOP-1134/IXI332-IOP-1134-T1.nii.gz",
+                "IXI332-IOP-1134/IXI332-IOP-1134-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI333-IOP-0926/IXI333-IOP-0926-MRA.nii.gz",
+                "IXI333-IOP-0926/IXI333-IOP-0926-PD.nii.gz",
+                "IXI333-IOP-0926/IXI333-IOP-0926-T1.nii.gz",
+                "IXI333-IOP-0926/IXI333-IOP-0926-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI334-HH-1907/IXI334-HH-1907-MRA.nii.gz",
+                "IXI334-HH-1907/IXI334-HH-1907-PD.nii.gz",
+                "IXI334-HH-1907/IXI334-HH-1907-T1.nii.gz",
+                "IXI334-HH-1907/IXI334-HH-1907-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI336-Guys-0904/IXI336-Guys-0904-MRA.nii.gz",
+                "IXI336-Guys-0904/IXI336-Guys-0904-PD.nii.gz",
+                "IXI336-Guys-0904/IXI336-Guys-0904-T1.nii.gz",
+                "IXI336-Guys-0904/IXI336-Guys-0904-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI337-IOP-0929/IXI337-IOP-0929-MRA.nii.gz",
+                "IXI337-IOP-0929/IXI337-IOP-0929-PD.nii.gz",
+                "IXI337-IOP-0929/IXI337-IOP-0929-T1.nii.gz",
+                "IXI337-IOP-0929/IXI337-IOP-0929-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI338-HH-1971/IXI338-HH-1971-MRA.nii.gz",
+                "IXI338-HH-1971/IXI338-HH-1971-PD.nii.gz",
+                "IXI338-HH-1971/IXI338-HH-1971-T1.nii.gz",
+                "IXI338-HH-1971/IXI338-HH-1971-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI340-IOP-0915/IXI340-IOP-0915-MRA.nii.gz",
+                "IXI340-IOP-0915/IXI340-IOP-0915-PD.nii.gz",
+                "IXI340-IOP-0915/IXI340-IOP-0915-T1.nii.gz",
+                "IXI340-IOP-0915/IXI340-IOP-0915-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI341-Guys-0906/IXI341-Guys-0906-MRA.nii.gz",
+                "IXI341-Guys-0906/IXI341-Guys-0906-PD.nii.gz",
+                "IXI341-Guys-0906/IXI341-Guys-0906-T1.nii.gz",
+                "IXI341-Guys-0906/IXI341-Guys-0906-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI344-Guys-0905/IXI344-Guys-0905-MRA.nii.gz",
+                "IXI344-Guys-0905/IXI344-Guys-0905-PD.nii.gz",
+                "IXI344-Guys-0905/IXI344-Guys-0905-T1.nii.gz",
+                "IXI344-Guys-0905/IXI344-Guys-0905-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI345-IOP-0928/IXI345-IOP-0928-MRA.nii.gz",
+                "IXI345-IOP-0928/IXI345-IOP-0928-PD.nii.gz",
+                "IXI345-IOP-0928/IXI345-IOP-0928-T1.nii.gz",
+                "IXI345-IOP-0928/IXI345-IOP-0928-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI348-Guys-0910/IXI348-Guys-0910-MRA.nii.gz",
+                "IXI348-Guys-0910/IXI348-Guys-0910-PD.nii.gz",
+                "IXI348-Guys-0910/IXI348-Guys-0910-T1.nii.gz",
+                "IXI348-Guys-0910/IXI348-Guys-0910-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI350-Guys-0908/IXI350-Guys-0908-MRA.nii.gz",
+                "IXI350-Guys-0908/IXI350-Guys-0908-PD.nii.gz",
+                "IXI350-Guys-0908/IXI350-Guys-0908-T1.nii.gz",
+                "IXI350-Guys-0908/IXI350-Guys-0908-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI351-Guys-0914/IXI351-Guys-0914-MRA.nii.gz",
+                "IXI351-Guys-0914/IXI351-Guys-0914-PD.nii.gz",
+                "IXI351-Guys-0914/IXI351-Guys-0914-T1.nii.gz",
+                "IXI351-Guys-0914/IXI351-Guys-0914-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI353-HH-1996/IXI353-HH-1996-MRA.nii.gz",
+                "IXI353-HH-1996/IXI353-HH-1996-PD.nii.gz",
+                "IXI353-HH-1996/IXI353-HH-1996-T1.nii.gz",
+                "IXI353-HH-1996/IXI353-HH-1996-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI354-HH-2024/IXI354-HH-2024-MRA.nii.gz",
+                "IXI354-HH-2024/IXI354-HH-2024-PD.nii.gz",
+                "IXI354-HH-2024/IXI354-HH-2024-T1.nii.gz",
+                "IXI354-HH-2024/IXI354-HH-2024-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI356-HH-2049/IXI356-HH-2049-MRA.nii.gz",
+                "IXI356-HH-2049/IXI356-HH-2049-PD.nii.gz",
+                "IXI356-HH-2049/IXI356-HH-2049-T1.nii.gz",
+                "IXI356-HH-2049/IXI356-HH-2049-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI357-HH-2076/IXI357-HH-2076-MRA.nii.gz",
+                "IXI357-HH-2076/IXI357-HH-2076-PD.nii.gz",
+                "IXI357-HH-2076/IXI357-HH-2076-T1.nii.gz",
+                "IXI357-HH-2076/IXI357-HH-2076-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI358-Guys-0919/IXI358-Guys-0919-MRA.nii.gz",
+                "IXI358-Guys-0919/IXI358-Guys-0919-PD.nii.gz",
+                "IXI358-Guys-0919/IXI358-Guys-0919-T1.nii.gz",
+                "IXI358-Guys-0919/IXI358-Guys-0919-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI359-Guys-0918/IXI359-Guys-0918-MRA.nii.gz",
+                "IXI359-Guys-0918/IXI359-Guys-0918-PD.nii.gz",
+                "IXI359-Guys-0918/IXI359-Guys-0918-T1.nii.gz",
+                "IXI359-Guys-0918/IXI359-Guys-0918-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI360-Guys-0912/IXI360-Guys-0912-MRA.nii.gz",
+                "IXI360-Guys-0912/IXI360-Guys-0912-PD.nii.gz",
+                "IXI360-Guys-0912/IXI360-Guys-0912-T1.nii.gz",
+                "IXI360-Guys-0912/IXI360-Guys-0912-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI361-Guys-0913/IXI361-Guys-0913-MRA.nii.gz",
+                "IXI361-Guys-0913/IXI361-Guys-0913-PD.nii.gz",
+                "IXI361-Guys-0913/IXI361-Guys-0913-T1.nii.gz",
+                "IXI361-Guys-0913/IXI361-Guys-0913-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI362-HH-2051/IXI362-HH-2051-MRA.nii.gz",
+                "IXI362-HH-2051/IXI362-HH-2051-PD.nii.gz",
+                "IXI362-HH-2051/IXI362-HH-2051-T1.nii.gz",
+                "IXI362-HH-2051/IXI362-HH-2051-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI363-HH-2050/IXI363-HH-2050-MRA.nii.gz",
+                "IXI363-HH-2050/IXI363-HH-2050-PD.nii.gz",
+                "IXI363-HH-2050/IXI363-HH-2050-T1.nii.gz",
+                "IXI363-HH-2050/IXI363-HH-2050-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI364-Guys-0920/IXI364-Guys-0920-MRA.nii.gz",
+                "IXI364-Guys-0920/IXI364-Guys-0920-PD.nii.gz",
+                "IXI364-Guys-0920/IXI364-Guys-0920-T1.nii.gz",
+                "IXI364-Guys-0920/IXI364-Guys-0920-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI367-Guys-0917/IXI367-Guys-0917-MRA.nii.gz",
+                "IXI367-Guys-0917/IXI367-Guys-0917-PD.nii.gz",
+                "IXI367-Guys-0917/IXI367-Guys-0917-T1.nii.gz",
+                "IXI367-Guys-0917/IXI367-Guys-0917-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI368-Guys-0916/IXI368-Guys-0916-MRA.nii.gz",
+                "IXI368-Guys-0916/IXI368-Guys-0916-PD.nii.gz",
+                "IXI368-Guys-0916/IXI368-Guys-0916-T1.nii.gz",
+                "IXI368-Guys-0916/IXI368-Guys-0916-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI369-Guys-0924/IXI369-Guys-0924-MRA.nii.gz",
+                "IXI369-Guys-0924/IXI369-Guys-0924-PD.nii.gz",
+                "IXI369-Guys-0924/IXI369-Guys-0924-T1.nii.gz",
+                "IXI369-Guys-0924/IXI369-Guys-0924-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI370-Guys-0921/IXI370-Guys-0921-MRA.nii.gz",
+                "IXI370-Guys-0921/IXI370-Guys-0921-PD.nii.gz",
+                "IXI370-Guys-0921/IXI370-Guys-0921-T1.nii.gz",
+                "IXI370-Guys-0921/IXI370-Guys-0921-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI372-IOP-0971/IXI372-IOP-0971-MRA.nii.gz",
+                "IXI372-IOP-0971/IXI372-IOP-0971-PD.nii.gz",
+                "IXI372-IOP-0971/IXI372-IOP-0971-T1.nii.gz",
+                "IXI372-IOP-0971/IXI372-IOP-0971-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI375-Guys-0925/IXI375-Guys-0925-MRA.nii.gz",
+                "IXI375-Guys-0925/IXI375-Guys-0925-PD.nii.gz",
+                "IXI375-Guys-0925/IXI375-Guys-0925-T1.nii.gz",
+                "IXI375-Guys-0925/IXI375-Guys-0925-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI376-Guys-0938/IXI376-Guys-0938-MRA.nii.gz",
+                "IXI376-Guys-0938/IXI376-Guys-0938-PD.nii.gz",
+                "IXI376-Guys-0938/IXI376-Guys-0938-T1.nii.gz",
+                "IXI376-Guys-0938/IXI376-Guys-0938-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI377-Guys-0937/IXI377-Guys-0937-MRA.nii.gz",
+                "IXI377-Guys-0937/IXI377-Guys-0937-PD.nii.gz",
+                "IXI377-Guys-0937/IXI377-Guys-0937-T1.nii.gz",
+                "IXI377-Guys-0937/IXI377-Guys-0937-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI378-IOP-0972/IXI378-IOP-0972-MRA.nii.gz",
+                "IXI378-IOP-0972/IXI378-IOP-0972-PD.nii.gz",
+                "IXI378-IOP-0972/IXI378-IOP-0972-T1.nii.gz",
+                "IXI378-IOP-0972/IXI378-IOP-0972-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI380-Guys-0944/IXI380-Guys-0944-MRA.nii.gz",
+                "IXI380-Guys-0944/IXI380-Guys-0944-PD.nii.gz",
+                "IXI380-Guys-0944/IXI380-Guys-0944-T1.nii.gz",
+                "IXI380-Guys-0944/IXI380-Guys-0944-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI381-Guys-1024/IXI381-Guys-1024-MRA.nii.gz",
+                "IXI381-Guys-1024/IXI381-Guys-1024-PD.nii.gz",
+                "IXI381-Guys-1024/IXI381-Guys-1024-T1.nii.gz",
+                "IXI381-Guys-1024/IXI381-Guys-1024-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI382-IOP-1135/IXI382-IOP-1135-MRA.nii.gz",
+                "IXI382-IOP-1135/IXI382-IOP-1135-PD.nii.gz",
+                "IXI382-IOP-1135/IXI382-IOP-1135-T1.nii.gz",
+                "IXI382-IOP-1135/IXI382-IOP-1135-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI383-HH-2099/IXI383-HH-2099-MRA.nii.gz",
+                "IXI383-HH-2099/IXI383-HH-2099-PD.nii.gz",
+                "IXI383-HH-2099/IXI383-HH-2099-T1.nii.gz",
+                "IXI383-HH-2099/IXI383-HH-2099-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI385-HH-2078/IXI385-HH-2078-MRA.nii.gz",
+                "IXI385-HH-2078/IXI385-HH-2078-PD.nii.gz",
+                "IXI385-HH-2078/IXI385-HH-2078-T1.nii.gz",
+                "IXI385-HH-2078/IXI385-HH-2078-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI386-HH-2077/IXI386-HH-2077-MRA.nii.gz",
+                "IXI386-HH-2077/IXI386-HH-2077-PD.nii.gz",
+                "IXI386-HH-2077/IXI386-HH-2077-T1.nii.gz",
+                "IXI386-HH-2077/IXI386-HH-2077-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI387-HH-2101/IXI387-HH-2101-MRA.nii.gz",
+                "IXI387-HH-2101/IXI387-HH-2101-PD.nii.gz",
+                "IXI387-HH-2101/IXI387-HH-2101-T1.nii.gz",
+                "IXI387-HH-2101/IXI387-HH-2101-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI388-IOP-0973/IXI388-IOP-0973-MRA.nii.gz",
+                "IXI388-IOP-0973/IXI388-IOP-0973-PD.nii.gz",
+                "IXI388-IOP-0973/IXI388-IOP-0973-T1.nii.gz",
+                "IXI388-IOP-0973/IXI388-IOP-0973-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI389-Guys-0930/IXI389-Guys-0930-MRA.nii.gz",
+                "IXI389-Guys-0930/IXI389-Guys-0930-PD.nii.gz",
+                "IXI389-Guys-0930/IXI389-Guys-0930-T1.nii.gz",
+                "IXI389-Guys-0930/IXI389-Guys-0930-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI390-Guys-0931/IXI390-Guys-0931-MRA.nii.gz",
+                "IXI390-Guys-0931/IXI390-Guys-0931-PD.nii.gz",
+                "IXI390-Guys-0931/IXI390-Guys-0931-T1.nii.gz",
+                "IXI390-Guys-0931/IXI390-Guys-0931-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI391-Guys-0934/IXI391-Guys-0934-MRA.nii.gz",
+                "IXI391-Guys-0934/IXI391-Guys-0934-PD.nii.gz",
+                "IXI391-Guys-0934/IXI391-Guys-0934-T1.nii.gz",
+                "IXI391-Guys-0934/IXI391-Guys-0934-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI392-Guys-1064/IXI392-Guys-1064-MRA.nii.gz",
+                "IXI392-Guys-1064/IXI392-Guys-1064-PD.nii.gz",
+                "IXI392-Guys-1064/IXI392-Guys-1064-T1.nii.gz",
+                "IXI392-Guys-1064/IXI392-Guys-1064-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI393-Guys-0941/IXI393-Guys-0941-MRA.nii.gz",
+                "IXI393-Guys-0941/IXI393-Guys-0941-PD.nii.gz",
+                "IXI393-Guys-0941/IXI393-Guys-0941-T1.nii.gz",
+                "IXI393-Guys-0941/IXI393-Guys-0941-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI394-Guys-0940/IXI394-Guys-0940-MRA.nii.gz",
+                "IXI394-Guys-0940/IXI394-Guys-0940-PD.nii.gz",
+                "IXI394-Guys-0940/IXI394-Guys-0940-T1.nii.gz",
+                "IXI394-Guys-0940/IXI394-Guys-0940-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI395-IOP-0969/IXI395-IOP-0969-MRA.nii.gz",
+                "IXI395-IOP-0969/IXI395-IOP-0969-PD.nii.gz",
+                "IXI395-IOP-0969/IXI395-IOP-0969-T1.nii.gz",
+                "IXI395-IOP-0969/IXI395-IOP-0969-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI396-HH-2115/IXI396-HH-2115-MRA.nii.gz",
+                "IXI396-HH-2115/IXI396-HH-2115-PD.nii.gz",
+                "IXI396-HH-2115/IXI396-HH-2115-T1.nii.gz",
+                "IXI396-HH-2115/IXI396-HH-2115-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI397-Guys-0953/IXI397-Guys-0953-MRA.nii.gz",
+                "IXI397-Guys-0953/IXI397-Guys-0953-PD.nii.gz",
+                "IXI397-Guys-0953/IXI397-Guys-0953-T1.nii.gz",
+                "IXI397-Guys-0953/IXI397-Guys-0953-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI398-Guys-0952/IXI398-Guys-0952-MRA.nii.gz",
+                "IXI398-Guys-0952/IXI398-Guys-0952-PD.nii.gz",
+                "IXI398-Guys-0952/IXI398-Guys-0952-T1.nii.gz",
+                "IXI398-Guys-0952/IXI398-Guys-0952-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI400-Guys-0977/IXI400-Guys-0977-MRA.nii.gz",
+                "IXI400-Guys-0977/IXI400-Guys-0977-PD.nii.gz",
+                "IXI400-Guys-0977/IXI400-Guys-0977-T1.nii.gz",
+                "IXI400-Guys-0977/IXI400-Guys-0977-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI401-Guys-0978/IXI401-Guys-0978-MRA.nii.gz",
+                "IXI401-Guys-0978/IXI401-Guys-0978-PD.nii.gz",
+                "IXI401-Guys-0978/IXI401-Guys-0978-T1.nii.gz",
+                "IXI401-Guys-0978/IXI401-Guys-0978-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI403-Guys-0965/IXI403-Guys-0965-MRA.nii.gz",
+                "IXI403-Guys-0965/IXI403-Guys-0965-PD.nii.gz",
+                "IXI403-Guys-0965/IXI403-Guys-0965-T1.nii.gz",
+                "IXI403-Guys-0965/IXI403-Guys-0965-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI404-Guys-0950/IXI404-Guys-0950-MRA.nii.gz",
+                "IXI404-Guys-0950/IXI404-Guys-0950-PD.nii.gz",
+                "IXI404-Guys-0950/IXI404-Guys-0950-T1.nii.gz",
+                "IXI404-Guys-0950/IXI404-Guys-0950-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI406-Guys-0963/IXI406-Guys-0963-MRA.nii.gz",
+                "IXI406-Guys-0963/IXI406-Guys-0963-PD.nii.gz",
+                "IXI406-Guys-0963/IXI406-Guys-0963-T1.nii.gz",
+                "IXI406-Guys-0963/IXI406-Guys-0963-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI407-Guys-0964/IXI407-Guys-0964-MRA.nii.gz",
+                "IXI407-Guys-0964/IXI407-Guys-0964-PD.nii.gz",
+                "IXI407-Guys-0964/IXI407-Guys-0964-T1.nii.gz",
+                "IXI407-Guys-0964/IXI407-Guys-0964-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI408-Guys-0962/IXI408-Guys-0962-MRA.nii.gz",
+                "IXI408-Guys-0962/IXI408-Guys-0962-PD.nii.gz",
+                "IXI408-Guys-0962/IXI408-Guys-0962-T1.nii.gz",
+                "IXI408-Guys-0962/IXI408-Guys-0962-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI409-Guys-0960/IXI409-Guys-0960-MRA.nii.gz",
+                "IXI409-Guys-0960/IXI409-Guys-0960-PD.nii.gz",
+                "IXI409-Guys-0960/IXI409-Guys-0960-T1.nii.gz",
+                "IXI409-Guys-0960/IXI409-Guys-0960-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI410-Guys-0958/IXI410-Guys-0958-MRA.nii.gz",
+                "IXI410-Guys-0958/IXI410-Guys-0958-PD.nii.gz",
+                "IXI410-Guys-0958/IXI410-Guys-0958-T1.nii.gz",
+                "IXI410-Guys-0958/IXI410-Guys-0958-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI411-Guys-0959/IXI411-Guys-0959-MRA.nii.gz",
+                "IXI411-Guys-0959/IXI411-Guys-0959-PD.nii.gz",
+                "IXI411-Guys-0959/IXI411-Guys-0959-T1.nii.gz",
+                "IXI411-Guys-0959/IXI411-Guys-0959-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI412-Guys-0949/IXI412-Guys-0949-MRA.nii.gz",
+                "IXI412-Guys-0949/IXI412-Guys-0949-PD.nii.gz",
+                "IXI412-Guys-0949/IXI412-Guys-0949-T1.nii.gz",
+                "IXI412-Guys-0949/IXI412-Guys-0949-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI413-Guys-0955/IXI413-Guys-0955-MRA.nii.gz",
+                "IXI413-Guys-0955/IXI413-Guys-0955-PD.nii.gz",
+                "IXI413-Guys-0955/IXI413-Guys-0955-T1.nii.gz",
+                "IXI413-Guys-0955/IXI413-Guys-0955-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI414-Guys-0957/IXI414-Guys-0957-MRA.nii.gz",
+                "IXI414-Guys-0957/IXI414-Guys-0957-PD.nii.gz",
+                "IXI414-Guys-0957/IXI414-Guys-0957-T1.nii.gz",
+                "IXI414-Guys-0957/IXI414-Guys-0957-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI415-Guys-0942/IXI415-Guys-0942-MRA.nii.gz",
+                "IXI415-Guys-0942/IXI415-Guys-0942-PD.nii.gz",
+                "IXI415-Guys-0942/IXI415-Guys-0942-T1.nii.gz",
+                "IXI415-Guys-0942/IXI415-Guys-0942-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI417-Guys-0939/IXI417-Guys-0939-MRA.nii.gz",
+                "IXI417-Guys-0939/IXI417-Guys-0939-PD.nii.gz",
+                "IXI417-Guys-0939/IXI417-Guys-0939-T1.nii.gz",
+                "IXI417-Guys-0939/IXI417-Guys-0939-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI418-Guys-0956/IXI418-Guys-0956-MRA.nii.gz",
+                "IXI418-Guys-0956/IXI418-Guys-0956-PD.nii.gz",
+                "IXI418-Guys-0956/IXI418-Guys-0956-T1.nii.gz",
+                "IXI418-Guys-0956/IXI418-Guys-0956-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI419-Guys-1027/IXI419-Guys-1027-MRA.nii.gz",
+                "IXI419-Guys-1027/IXI419-Guys-1027-PD.nii.gz",
+                "IXI419-Guys-1027/IXI419-Guys-1027-T1.nii.gz",
+                "IXI419-Guys-1027/IXI419-Guys-1027-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI420-Guys-1028/IXI420-Guys-1028-MRA.nii.gz",
+                "IXI420-Guys-1028/IXI420-Guys-1028-PD.nii.gz",
+                "IXI420-Guys-1028/IXI420-Guys-1028-T1.nii.gz",
+                "IXI420-Guys-1028/IXI420-Guys-1028-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI422-Guys-1071/IXI422-Guys-1071-MRA.nii.gz",
+                "IXI422-Guys-1071/IXI422-Guys-1071-PD.nii.gz",
+                "IXI422-Guys-1071/IXI422-Guys-1071-T1.nii.gz",
+                "IXI422-Guys-1071/IXI422-Guys-1071-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI423-IOP-0974/IXI423-IOP-0974-MRA.nii.gz",
+                "IXI423-IOP-0974/IXI423-IOP-0974-PD.nii.gz",
+                "IXI423-IOP-0974/IXI423-IOP-0974-T1.nii.gz",
+                "IXI423-IOP-0974/IXI423-IOP-0974-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI424-IOP-0991/IXI424-IOP-0991-MRA.nii.gz",
+                "IXI424-IOP-0991/IXI424-IOP-0991-PD.nii.gz",
+                "IXI424-IOP-0991/IXI424-IOP-0991-T1.nii.gz",
+                "IXI424-IOP-0991/IXI424-IOP-0991-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI425-IOP-0988/IXI425-IOP-0988-MRA.nii.gz",
+                "IXI425-IOP-0988/IXI425-IOP-0988-PD.nii.gz",
+                "IXI425-IOP-0988/IXI425-IOP-0988-T1.nii.gz",
+                "IXI425-IOP-0988/IXI425-IOP-0988-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI427-IOP-1012/IXI427-IOP-1012-MRA.nii.gz",
+                "IXI427-IOP-1012/IXI427-IOP-1012-PD.nii.gz",
+                "IXI427-IOP-1012/IXI427-IOP-1012-T1.nii.gz",
+                "IXI427-IOP-1012/IXI427-IOP-1012-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI428-Guys-0996/IXI428-Guys-0996-MRA.nii.gz",
+                "IXI428-Guys-0996/IXI428-Guys-0996-PD.nii.gz",
+                "IXI428-Guys-0996/IXI428-Guys-0996-T1.nii.gz",
+                "IXI428-Guys-0996/IXI428-Guys-0996-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI429-Guys-0997/IXI429-Guys-0997-MRA.nii.gz",
+                "IXI429-Guys-0997/IXI429-Guys-0997-PD.nii.gz",
+                "IXI429-Guys-0997/IXI429-Guys-0997-T1.nii.gz",
+                "IXI429-Guys-0997/IXI429-Guys-0997-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI430-IOP-0990/IXI430-IOP-0990-MRA.nii.gz",
+                "IXI430-IOP-0990/IXI430-IOP-0990-PD.nii.gz",
+                "IXI430-IOP-0990/IXI430-IOP-0990-T1.nii.gz",
+                "IXI430-IOP-0990/IXI430-IOP-0990-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI431-Guys-0986/IXI431-Guys-0986-MRA.nii.gz",
+                "IXI431-Guys-0986/IXI431-Guys-0986-PD.nii.gz",
+                "IXI431-Guys-0986/IXI431-Guys-0986-T1.nii.gz",
+                "IXI431-Guys-0986/IXI431-Guys-0986-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI432-Guys-0987/IXI432-Guys-0987-MRA.nii.gz",
+                "IXI432-Guys-0987/IXI432-Guys-0987-PD.nii.gz",
+                "IXI432-Guys-0987/IXI432-Guys-0987-T1.nii.gz",
+                "IXI432-Guys-0987/IXI432-Guys-0987-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI435-IOP-1040/IXI435-IOP-1040-MRA.nii.gz",
+                "IXI435-IOP-1040/IXI435-IOP-1040-PD.nii.gz",
+                "IXI435-IOP-1040/IXI435-IOP-1040-T1.nii.gz",
+                "IXI435-IOP-1040/IXI435-IOP-1040-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI436-HH-2153/IXI436-HH-2153-MRA.nii.gz",
+                "IXI436-HH-2153/IXI436-HH-2153-PD.nii.gz",
+                "IXI436-HH-2153/IXI436-HH-2153-T1.nii.gz",
+                "IXI436-HH-2153/IXI436-HH-2153-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI437-HH-2152/IXI437-HH-2152-MRA.nii.gz",
+                "IXI437-HH-2152/IXI437-HH-2152-PD.nii.gz",
+                "IXI437-HH-2152/IXI437-HH-2152-T1.nii.gz",
+                "IXI437-HH-2152/IXI437-HH-2152-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI439-HH-2114/IXI439-HH-2114-MRA.nii.gz",
+                "IXI439-HH-2114/IXI439-HH-2114-PD.nii.gz",
+                "IXI439-HH-2114/IXI439-HH-2114-T1.nii.gz",
+                "IXI439-HH-2114/IXI439-HH-2114-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI440-HH-2127/IXI440-HH-2127-MRA.nii.gz",
+                "IXI440-HH-2127/IXI440-HH-2127-PD.nii.gz",
+                "IXI440-HH-2127/IXI440-HH-2127-T1.nii.gz",
+                "IXI440-HH-2127/IXI440-HH-2127-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI441-HH-2154/IXI441-HH-2154-MRA.nii.gz",
+                "IXI441-HH-2154/IXI441-HH-2154-PD.nii.gz",
+                "IXI441-HH-2154/IXI441-HH-2154-T1.nii.gz",
+                "IXI441-HH-2154/IXI441-HH-2154-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI442-IOP-1041/IXI442-IOP-1041-MRA.nii.gz",
+                "IXI442-IOP-1041/IXI442-IOP-1041-PD.nii.gz",
+                "IXI442-IOP-1041/IXI442-IOP-1041-T1.nii.gz",
+                "IXI442-IOP-1041/IXI442-IOP-1041-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI443-HH-2215/IXI443-HH-2215-MRA.nii.gz",
+                "IXI443-HH-2215/IXI443-HH-2215-PD.nii.gz",
+                "IXI443-HH-2215/IXI443-HH-2215-T1.nii.gz",
+                "IXI443-HH-2215/IXI443-HH-2215-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI445-HH-2269/IXI445-HH-2269-MRA.nii.gz",
+                "IXI445-HH-2269/IXI445-HH-2269-PD.nii.gz",
+                "IXI445-HH-2269/IXI445-HH-2269-T1.nii.gz",
+                "IXI445-HH-2269/IXI445-HH-2269-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI446-HH-2325/IXI446-HH-2325-MRA.nii.gz",
+                "IXI446-HH-2325/IXI446-HH-2325-PD.nii.gz",
+                "IXI446-HH-2325/IXI446-HH-2325-T1.nii.gz",
+                "IXI446-HH-2325/IXI446-HH-2325-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI447-Guys-0979/IXI447-Guys-0979-MRA.nii.gz",
+                "IXI447-Guys-0979/IXI447-Guys-0979-PD.nii.gz",
+                "IXI447-Guys-0979/IXI447-Guys-0979-T1.nii.gz",
+                "IXI447-Guys-0979/IXI447-Guys-0979-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI448-HH-2393/IXI448-HH-2393-MRA.nii.gz",
+                "IXI448-HH-2393/IXI448-HH-2393-PD.nii.gz",
+                "IXI448-HH-2393/IXI448-HH-2393-T1.nii.gz",
+                "IXI448-HH-2393/IXI448-HH-2393-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI449-Guys-1082/IXI449-Guys-1082-MRA.nii.gz",
+                "IXI449-Guys-1082/IXI449-Guys-1082-PD.nii.gz",
+                "IXI449-Guys-1082/IXI449-Guys-1082-T1.nii.gz",
+                "IXI449-Guys-1082/IXI449-Guys-1082-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI450-Guys-1093/IXI450-Guys-1093-MRA.nii.gz",
+                "IXI450-Guys-1093/IXI450-Guys-1093-PD.nii.gz",
+                "IXI450-Guys-1093/IXI450-Guys-1093-T1.nii.gz",
+                "IXI450-Guys-1093/IXI450-Guys-1093-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI451-HH-2212/IXI451-HH-2212-MRA.nii.gz",
+                "IXI451-HH-2212/IXI451-HH-2212-PD.nii.gz",
+                "IXI451-HH-2212/IXI451-HH-2212-T1.nii.gz",
+                "IXI451-HH-2212/IXI451-HH-2212-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI452-HH-2213/IXI452-HH-2213-MRA.nii.gz",
+                "IXI452-HH-2213/IXI452-HH-2213-PD.nii.gz",
+                "IXI452-HH-2213/IXI452-HH-2213-T1.nii.gz",
+                "IXI452-HH-2213/IXI452-HH-2213-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI453-HH-2214/IXI453-HH-2214-MRA.nii.gz",
+                "IXI453-HH-2214/IXI453-HH-2214-PD.nii.gz",
+                "IXI453-HH-2214/IXI453-HH-2214-T1.nii.gz",
+                "IXI453-HH-2214/IXI453-HH-2214-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI455-Guys-0981/IXI455-Guys-0981-MRA.nii.gz",
+                "IXI455-Guys-0981/IXI455-Guys-0981-PD.nii.gz",
+                "IXI455-Guys-0981/IXI455-Guys-0981-T1.nii.gz",
+                "IXI455-Guys-0981/IXI455-Guys-0981-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI456-Guys-1019/IXI456-Guys-1019-MRA.nii.gz",
+                "IXI456-Guys-1019/IXI456-Guys-1019-PD.nii.gz",
+                "IXI456-Guys-1019/IXI456-Guys-1019-T1.nii.gz",
+                "IXI456-Guys-1019/IXI456-Guys-1019-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI459-Guys-0992/IXI459-Guys-0992-MRA.nii.gz",
+                "IXI459-Guys-0992/IXI459-Guys-0992-PD.nii.gz",
+                "IXI459-Guys-0992/IXI459-Guys-0992-T1.nii.gz",
+                "IXI459-Guys-0992/IXI459-Guys-0992-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI460-Guys-0999/IXI460-Guys-0999-MRA.nii.gz",
+                "IXI460-Guys-0999/IXI460-Guys-0999-PD.nii.gz",
+                "IXI460-Guys-0999/IXI460-Guys-0999-T1.nii.gz",
+                "IXI460-Guys-0999/IXI460-Guys-0999-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI461-Guys-0998/IXI461-Guys-0998-MRA.nii.gz",
+                "IXI461-Guys-0998/IXI461-Guys-0998-PD.nii.gz",
+                "IXI461-Guys-0998/IXI461-Guys-0998-T1.nii.gz",
+                "IXI461-Guys-0998/IXI461-Guys-0998-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI462-IOP-1042/IXI462-IOP-1042-MRA.nii.gz",
+                "IXI462-IOP-1042/IXI462-IOP-1042-PD.nii.gz",
+                "IXI462-IOP-1042/IXI462-IOP-1042-T1.nii.gz",
+                "IXI462-IOP-1042/IXI462-IOP-1042-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI463-IOP-1043/IXI463-IOP-1043-MRA.nii.gz",
+                "IXI463-IOP-1043/IXI463-IOP-1043-PD.nii.gz",
+                "IXI463-IOP-1043/IXI463-IOP-1043-T1.nii.gz",
+                "IXI463-IOP-1043/IXI463-IOP-1043-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI464-IOP-1029/IXI464-IOP-1029-MRA.nii.gz",
+                "IXI464-IOP-1029/IXI464-IOP-1029-PD.nii.gz",
+                "IXI464-IOP-1029/IXI464-IOP-1029-T1.nii.gz",
+                "IXI464-IOP-1029/IXI464-IOP-1029-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI465-HH-2176/IXI465-HH-2176-MRA.nii.gz",
+                "IXI465-HH-2176/IXI465-HH-2176-PD.nii.gz",
+                "IXI465-HH-2176/IXI465-HH-2176-T1.nii.gz",
+                "IXI465-HH-2176/IXI465-HH-2176-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI467-Guys-0983/IXI467-Guys-0983-MRA.nii.gz",
+                "IXI467-Guys-0983/IXI467-Guys-0983-PD.nii.gz",
+                "IXI467-Guys-0983/IXI467-Guys-0983-T1.nii.gz",
+                "IXI467-Guys-0983/IXI467-Guys-0983-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI468-Guys-0985/IXI468-Guys-0985-MRA.nii.gz",
+                "IXI468-Guys-0985/IXI468-Guys-0985-PD.nii.gz",
+                "IXI468-Guys-0985/IXI468-Guys-0985-T1.nii.gz",
+                "IXI468-Guys-0985/IXI468-Guys-0985-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI469-IOP-1136/IXI469-IOP-1136-MRA.nii.gz",
+                "IXI469-IOP-1136/IXI469-IOP-1136-PD.nii.gz",
+                "IXI469-IOP-1136/IXI469-IOP-1136-T1.nii.gz",
+                "IXI469-IOP-1136/IXI469-IOP-1136-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI470-IOP-1030/IXI470-IOP-1030-MRA.nii.gz",
+                "IXI470-IOP-1030/IXI470-IOP-1030-PD.nii.gz",
+                "IXI470-IOP-1030/IXI470-IOP-1030-T1.nii.gz",
+                "IXI470-IOP-1030/IXI470-IOP-1030-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI474-IOP-1138/IXI474-IOP-1138-MRA.nii.gz",
+                "IXI474-IOP-1138/IXI474-IOP-1138-PD.nii.gz",
+                "IXI474-IOP-1138/IXI474-IOP-1138-T1.nii.gz",
+                "IXI474-IOP-1138/IXI474-IOP-1138-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI477-IOP-1141/IXI477-IOP-1141-MRA.nii.gz",
+                "IXI477-IOP-1141/IXI477-IOP-1141-PD.nii.gz",
+                "IXI477-IOP-1141/IXI477-IOP-1141-T1.nii.gz",
+                "IXI477-IOP-1141/IXI477-IOP-1141-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI478-IOP-1142/IXI478-IOP-1142-MRA.nii.gz",
+                "IXI478-IOP-1142/IXI478-IOP-1142-PD.nii.gz",
+                "IXI478-IOP-1142/IXI478-IOP-1142-T1.nii.gz",
+                "IXI478-IOP-1142/IXI478-IOP-1142-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI479-Guys-1034/IXI479-Guys-1034-MRA.nii.gz",
+                "IXI479-Guys-1034/IXI479-Guys-1034-PD.nii.gz",
+                "IXI479-Guys-1034/IXI479-Guys-1034-T1.nii.gz",
+                "IXI479-Guys-1034/IXI479-Guys-1034-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI480-Guys-1033/IXI480-Guys-1033-MRA.nii.gz",
+                "IXI480-Guys-1033/IXI480-Guys-1033-PD.nii.gz",
+                "IXI480-Guys-1033/IXI480-Guys-1033-T1.nii.gz",
+                "IXI480-Guys-1033/IXI480-Guys-1033-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI482-HH-2178/IXI482-HH-2178-MRA.nii.gz",
+                "IXI482-HH-2178/IXI482-HH-2178-PD.nii.gz",
+                "IXI482-HH-2178/IXI482-HH-2178-T1.nii.gz",
+                "IXI482-HH-2178/IXI482-HH-2178-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI483-HH-2177/IXI483-HH-2177-MRA.nii.gz",
+                "IXI483-HH-2177/IXI483-HH-2177-PD.nii.gz",
+                "IXI483-HH-2177/IXI483-HH-2177-T1.nii.gz",
+                "IXI483-HH-2177/IXI483-HH-2177-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI484-HH-2179/IXI484-HH-2179-MRA.nii.gz",
+                "IXI484-HH-2179/IXI484-HH-2179-PD.nii.gz",
+                "IXI484-HH-2179/IXI484-HH-2179-T1.nii.gz",
+                "IXI484-HH-2179/IXI484-HH-2179-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI485-HH-2180/IXI485-HH-2180-MRA.nii.gz",
+                "IXI485-HH-2180/IXI485-HH-2180-PD.nii.gz",
+                "IXI485-HH-2180/IXI485-HH-2180-T1.nii.gz",
+                "IXI485-HH-2180/IXI485-HH-2180-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI486-Guys-1005/IXI486-Guys-1005-MRA.nii.gz",
+                "IXI486-Guys-1005/IXI486-Guys-1005-PD.nii.gz",
+                "IXI486-Guys-1005/IXI486-Guys-1005-T1.nii.gz",
+                "IXI486-Guys-1005/IXI486-Guys-1005-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI487-Guys-1037/IXI487-Guys-1037-MRA.nii.gz",
+                "IXI487-Guys-1037/IXI487-Guys-1037-PD.nii.gz",
+                "IXI487-Guys-1037/IXI487-Guys-1037-T1.nii.gz",
+                "IXI487-Guys-1037/IXI487-Guys-1037-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI488-Guys-1015/IXI488-Guys-1015-MRA.nii.gz",
+                "IXI488-Guys-1015/IXI488-Guys-1015-PD.nii.gz",
+                "IXI488-Guys-1015/IXI488-Guys-1015-T1.nii.gz",
+                "IXI488-Guys-1015/IXI488-Guys-1015-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI489-Guys-1014/IXI489-Guys-1014-MRA.nii.gz",
+                "IXI489-Guys-1014/IXI489-Guys-1014-PD.nii.gz",
+                "IXI489-Guys-1014/IXI489-Guys-1014-T1.nii.gz",
+                "IXI489-Guys-1014/IXI489-Guys-1014-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI490-Guys-1018/IXI490-Guys-1018-MRA.nii.gz",
+                "IXI490-Guys-1018/IXI490-Guys-1018-PD.nii.gz",
+                "IXI490-Guys-1018/IXI490-Guys-1018-T1.nii.gz",
+                "IXI490-Guys-1018/IXI490-Guys-1018-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI491-Guys-1032/IXI491-Guys-1032-MRA.nii.gz",
+                "IXI491-Guys-1032/IXI491-Guys-1032-PD.nii.gz",
+                "IXI491-Guys-1032/IXI491-Guys-1032-T1.nii.gz",
+                "IXI491-Guys-1032/IXI491-Guys-1032-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI492-Guys-1022/IXI492-Guys-1022-MRA.nii.gz",
+                "IXI492-Guys-1022/IXI492-Guys-1022-PD.nii.gz",
+                "IXI492-Guys-1022/IXI492-Guys-1022-T1.nii.gz",
+                "IXI492-Guys-1022/IXI492-Guys-1022-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI493-Guys-1007/IXI493-Guys-1007-MRA.nii.gz",
+                "IXI493-Guys-1007/IXI493-Guys-1007-PD.nii.gz",
+                "IXI493-Guys-1007/IXI493-Guys-1007-T1.nii.gz",
+                "IXI493-Guys-1007/IXI493-Guys-1007-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI494-Guys-1008/IXI494-Guys-1008-MRA.nii.gz",
+                "IXI494-Guys-1008/IXI494-Guys-1008-PD.nii.gz",
+                "IXI494-Guys-1008/IXI494-Guys-1008-T1.nii.gz",
+                "IXI494-Guys-1008/IXI494-Guys-1008-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI495-Guys-1009/IXI495-Guys-1009-MRA.nii.gz",
+                "IXI495-Guys-1009/IXI495-Guys-1009-PD.nii.gz",
+                "IXI495-Guys-1009/IXI495-Guys-1009-T1.nii.gz",
+                "IXI495-Guys-1009/IXI495-Guys-1009-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI496-Guys-1045/IXI496-Guys-1045-MRA.nii.gz",
+                "IXI496-Guys-1045/IXI496-Guys-1045-PD.nii.gz",
+                "IXI496-Guys-1045/IXI496-Guys-1045-T1.nii.gz",
+                "IXI496-Guys-1045/IXI496-Guys-1045-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI497-Guys-1002/IXI497-Guys-1002-MRA.nii.gz",
+                "IXI497-Guys-1002/IXI497-Guys-1002-PD.nii.gz",
+                "IXI497-Guys-1002/IXI497-Guys-1002-T1.nii.gz",
+                "IXI497-Guys-1002/IXI497-Guys-1002-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI498-Guys-1050/IXI498-Guys-1050-MRA.nii.gz",
+                "IXI498-Guys-1050/IXI498-Guys-1050-PD.nii.gz",
+                "IXI498-Guys-1050/IXI498-Guys-1050-T1.nii.gz",
+                "IXI498-Guys-1050/IXI498-Guys-1050-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI499-Guys-1004/IXI499-Guys-1004-MRA.nii.gz",
+                "IXI499-Guys-1004/IXI499-Guys-1004-PD.nii.gz",
+                "IXI499-Guys-1004/IXI499-Guys-1004-T1.nii.gz",
+                "IXI499-Guys-1004/IXI499-Guys-1004-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI501-Guys-1016/IXI501-Guys-1016-MRA.nii.gz",
+                "IXI501-Guys-1016/IXI501-Guys-1016-PD.nii.gz",
+                "IXI501-Guys-1016/IXI501-Guys-1016-T1.nii.gz",
+                "IXI501-Guys-1016/IXI501-Guys-1016-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI502-Guys-1020/IXI502-Guys-1020-MRA.nii.gz",
+                "IXI502-Guys-1020/IXI502-Guys-1020-PD.nii.gz",
+                "IXI502-Guys-1020/IXI502-Guys-1020-T1.nii.gz",
+                "IXI502-Guys-1020/IXI502-Guys-1020-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI503-Guys-1021/IXI503-Guys-1021-MRA.nii.gz",
+                "IXI503-Guys-1021/IXI503-Guys-1021-PD.nii.gz",
+                "IXI503-Guys-1021/IXI503-Guys-1021-T1.nii.gz",
+                "IXI503-Guys-1021/IXI503-Guys-1021-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI504-Guys-1025/IXI504-Guys-1025-MRA.nii.gz",
+                "IXI504-Guys-1025/IXI504-Guys-1025-PD.nii.gz",
+                "IXI504-Guys-1025/IXI504-Guys-1025-T1.nii.gz",
+                "IXI504-Guys-1025/IXI504-Guys-1025-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI505-Guys-1026/IXI505-Guys-1026-MRA.nii.gz",
+                "IXI505-Guys-1026/IXI505-Guys-1026-PD.nii.gz",
+                "IXI505-Guys-1026/IXI505-Guys-1026-T1.nii.gz",
+                "IXI505-Guys-1026/IXI505-Guys-1026-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI506-Guys-1035/IXI506-Guys-1035-MRA.nii.gz",
+                "IXI506-Guys-1035/IXI506-Guys-1035-PD.nii.gz",
+                "IXI506-Guys-1035/IXI506-Guys-1035-T1.nii.gz",
+                "IXI506-Guys-1035/IXI506-Guys-1035-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI507-Guys-1036/IXI507-Guys-1036-MRA.nii.gz",
+                "IXI507-Guys-1036/IXI507-Guys-1036-PD.nii.gz",
+                "IXI507-Guys-1036/IXI507-Guys-1036-T1.nii.gz",
+                "IXI507-Guys-1036/IXI507-Guys-1036-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI508-HH-2268/IXI508-HH-2268-MRA.nii.gz",
+                "IXI508-HH-2268/IXI508-HH-2268-PD.nii.gz",
+                "IXI508-HH-2268/IXI508-HH-2268-T1.nii.gz",
+                "IXI508-HH-2268/IXI508-HH-2268-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI510-IOP-1143/IXI510-IOP-1143-MRA.nii.gz",
+                "IXI510-IOP-1143/IXI510-IOP-1143-PD.nii.gz",
+                "IXI510-IOP-1143/IXI510-IOP-1143-T1.nii.gz",
+                "IXI510-IOP-1143/IXI510-IOP-1143-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI511-HH-2238/IXI511-HH-2238-MRA.nii.gz",
+                "IXI511-HH-2238/IXI511-HH-2238-PD.nii.gz",
+                "IXI511-HH-2238/IXI511-HH-2238-T1.nii.gz",
+                "IXI511-HH-2238/IXI511-HH-2238-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI512-Guys-1054/IXI512-Guys-1054-MRA.nii.gz",
+                "IXI512-Guys-1054/IXI512-Guys-1054-PD.nii.gz",
+                "IXI512-Guys-1054/IXI512-Guys-1054-T1.nii.gz",
+                "IXI512-Guys-1054/IXI512-Guys-1054-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI515-HH-2377/IXI515-HH-2377-MRA.nii.gz",
+                "IXI515-HH-2377/IXI515-HH-2377-PD.nii.gz",
+                "IXI515-HH-2377/IXI515-HH-2377-T1.nii.gz",
+                "IXI515-HH-2377/IXI515-HH-2377-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI517-IOP-1144/IXI517-IOP-1144-MRA.nii.gz",
+                "IXI517-IOP-1144/IXI517-IOP-1144-PD.nii.gz",
+                "IXI517-IOP-1144/IXI517-IOP-1144-T1.nii.gz",
+                "IXI517-IOP-1144/IXI517-IOP-1144-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI518-HH-2239/IXI518-HH-2239-MRA.nii.gz",
+                "IXI518-HH-2239/IXI518-HH-2239-PD.nii.gz",
+                "IXI518-HH-2239/IXI518-HH-2239-T1.nii.gz",
+                "IXI518-HH-2239/IXI518-HH-2239-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI519-HH-2240/IXI519-HH-2240-MRA.nii.gz",
+                "IXI519-HH-2240/IXI519-HH-2240-PD.nii.gz",
+                "IXI519-HH-2240/IXI519-HH-2240-T1.nii.gz",
+                "IXI519-HH-2240/IXI519-HH-2240-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI521-HH-2353/IXI521-HH-2353-MRA.nii.gz",
+                "IXI521-HH-2353/IXI521-HH-2353-PD.nii.gz",
+                "IXI521-HH-2353/IXI521-HH-2353-T1.nii.gz",
+                "IXI521-HH-2353/IXI521-HH-2353-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI522-HH-2453/IXI522-HH-2453-MRA.nii.gz",
+                "IXI522-HH-2453/IXI522-HH-2453-PD.nii.gz",
+                "IXI522-HH-2453/IXI522-HH-2453-T1.nii.gz",
+                "IXI522-HH-2453/IXI522-HH-2453-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI523-Guys-1056/IXI523-Guys-1056-MRA.nii.gz",
+                "IXI523-Guys-1056/IXI523-Guys-1056-PD.nii.gz",
+                "IXI523-Guys-1056/IXI523-Guys-1056-T1.nii.gz",
+                "IXI523-Guys-1056/IXI523-Guys-1056-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI524-HH-2412/IXI524-HH-2412-MRA.nii.gz",
+                "IXI524-HH-2412/IXI524-HH-2412-PD.nii.gz",
+                "IXI524-HH-2412/IXI524-HH-2412-T1.nii.gz",
+                "IXI524-HH-2412/IXI524-HH-2412-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI525-HH-2413/IXI525-HH-2413-MRA.nii.gz",
+                "IXI525-HH-2413/IXI525-HH-2413-PD.nii.gz",
+                "IXI525-HH-2413/IXI525-HH-2413-T1.nii.gz",
+                "IXI525-HH-2413/IXI525-HH-2413-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI527-HH-2376/IXI527-HH-2376-MRA.nii.gz",
+                "IXI527-HH-2376/IXI527-HH-2376-PD.nii.gz",
+                "IXI527-HH-2376/IXI527-HH-2376-T1.nii.gz",
+                "IXI527-HH-2376/IXI527-HH-2376-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI528-Guys-1073/IXI528-Guys-1073-MRA.nii.gz",
+                "IXI528-Guys-1073/IXI528-Guys-1073-PD.nii.gz",
+                "IXI528-Guys-1073/IXI528-Guys-1073-T1.nii.gz",
+                "IXI528-Guys-1073/IXI528-Guys-1073-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI531-Guys-1057/IXI531-Guys-1057-MRA.nii.gz",
+                "IXI531-Guys-1057/IXI531-Guys-1057-PD.nii.gz",
+                "IXI531-Guys-1057/IXI531-Guys-1057-T1.nii.gz",
+                "IXI531-Guys-1057/IXI531-Guys-1057-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI532-IOP-1145/IXI532-IOP-1145-MRA.nii.gz",
+                "IXI532-IOP-1145/IXI532-IOP-1145-PD.nii.gz",
+                "IXI532-IOP-1145/IXI532-IOP-1145-T1.nii.gz",
+                "IXI532-IOP-1145/IXI532-IOP-1145-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI533-Guys-1066/IXI533-Guys-1066-MRA.nii.gz",
+                "IXI533-Guys-1066/IXI533-Guys-1066-PD.nii.gz",
+                "IXI533-Guys-1066/IXI533-Guys-1066-T1.nii.gz",
+                "IXI533-Guys-1066/IXI533-Guys-1066-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI534-Guys-1062/IXI534-Guys-1062-MRA.nii.gz",
+                "IXI534-Guys-1062/IXI534-Guys-1062-PD.nii.gz",
+                "IXI534-Guys-1062/IXI534-Guys-1062-T1.nii.gz",
+                "IXI534-Guys-1062/IXI534-Guys-1062-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI535-Guys-1061/IXI535-Guys-1061-MRA.nii.gz",
+                "IXI535-Guys-1061/IXI535-Guys-1061-PD.nii.gz",
+                "IXI535-Guys-1061/IXI535-Guys-1061-T1.nii.gz",
+                "IXI535-Guys-1061/IXI535-Guys-1061-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI536-Guys-1059/IXI536-Guys-1059-MRA.nii.gz",
+                "IXI536-Guys-1059/IXI536-Guys-1059-PD.nii.gz",
+                "IXI536-Guys-1059/IXI536-Guys-1059-T1.nii.gz",
+                "IXI536-Guys-1059/IXI536-Guys-1059-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI537-HH-2378/IXI537-HH-2378-MRA.nii.gz",
+                "IXI537-HH-2378/IXI537-HH-2378-PD.nii.gz",
+                "IXI537-HH-2378/IXI537-HH-2378-T1.nii.gz",
+                "IXI537-HH-2378/IXI537-HH-2378-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI539-Guys-1067/IXI539-Guys-1067-MRA.nii.gz",
+                "IXI539-Guys-1067/IXI539-Guys-1067-PD.nii.gz",
+                "IXI539-Guys-1067/IXI539-Guys-1067-T1.nii.gz",
+                "IXI539-Guys-1067/IXI539-Guys-1067-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI541-IOP-1146/IXI541-IOP-1146-MRA.nii.gz",
+                "IXI541-IOP-1146/IXI541-IOP-1146-PD.nii.gz",
+                "IXI541-IOP-1146/IXI541-IOP-1146-T1.nii.gz",
+                "IXI541-IOP-1146/IXI541-IOP-1146-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI542-IOP-1147/IXI542-IOP-1147-MRA.nii.gz",
+                "IXI542-IOP-1147/IXI542-IOP-1147-PD.nii.gz",
+                "IXI542-IOP-1147/IXI542-IOP-1147-T1.nii.gz",
+                "IXI542-IOP-1147/IXI542-IOP-1147-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI543-IOP-1148/IXI543-IOP-1148-MRA.nii.gz",
+                "IXI543-IOP-1148/IXI543-IOP-1148-PD.nii.gz",
+                "IXI543-IOP-1148/IXI543-IOP-1148-T1.nii.gz",
+                "IXI543-IOP-1148/IXI543-IOP-1148-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI544-HH-2395/IXI544-HH-2395-MRA.nii.gz",
+                "IXI544-HH-2395/IXI544-HH-2395-PD.nii.gz",
+                "IXI544-HH-2395/IXI544-HH-2395-T1.nii.gz",
+                "IXI544-HH-2395/IXI544-HH-2395-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI547-IOP-1149/IXI547-IOP-1149-MRA.nii.gz",
+                "IXI547-IOP-1149/IXI547-IOP-1149-PD.nii.gz",
+                "IXI547-IOP-1149/IXI547-IOP-1149-T1.nii.gz",
+                "IXI547-IOP-1149/IXI547-IOP-1149-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI549-Guys-1046/IXI549-Guys-1046-MRA.nii.gz",
+                "IXI549-Guys-1046/IXI549-Guys-1046-PD.nii.gz",
+                "IXI549-Guys-1046/IXI549-Guys-1046-T1.nii.gz",
+                "IXI549-Guys-1046/IXI549-Guys-1046-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI551-Guys-1065/IXI551-Guys-1065-MRA.nii.gz",
+                "IXI551-Guys-1065/IXI551-Guys-1065-PD.nii.gz",
+                "IXI551-Guys-1065/IXI551-Guys-1065-T1.nii.gz",
+                "IXI551-Guys-1065/IXI551-Guys-1065-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI552-Guys-1063/IXI552-Guys-1063-MRA.nii.gz",
+                "IXI552-Guys-1063/IXI552-Guys-1063-PD.nii.gz",
+                "IXI552-Guys-1063/IXI552-Guys-1063-T1.nii.gz",
+                "IXI552-Guys-1063/IXI552-Guys-1063-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI553-IOP-1151/IXI553-IOP-1151-MRA.nii.gz",
+                "IXI553-IOP-1151/IXI553-IOP-1151-PD.nii.gz",
+                "IXI553-IOP-1151/IXI553-IOP-1151-T1.nii.gz",
+                "IXI553-IOP-1151/IXI553-IOP-1151-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI554-Guys-1068/IXI554-Guys-1068-MRA.nii.gz",
+                "IXI554-Guys-1068/IXI554-Guys-1068-PD.nii.gz",
+                "IXI554-Guys-1068/IXI554-Guys-1068-T1.nii.gz",
+                "IXI554-Guys-1068/IXI554-Guys-1068-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI555-Guys-1074/IXI555-Guys-1074-MRA.nii.gz",
+                "IXI555-Guys-1074/IXI555-Guys-1074-PD.nii.gz",
+                "IXI555-Guys-1074/IXI555-Guys-1074-T1.nii.gz",
+                "IXI555-Guys-1074/IXI555-Guys-1074-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI556-HH-2452/IXI556-HH-2452-MRA.nii.gz",
+                "IXI556-HH-2452/IXI556-HH-2452-PD.nii.gz",
+                "IXI556-HH-2452/IXI556-HH-2452-T1.nii.gz",
+                "IXI556-HH-2452/IXI556-HH-2452-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI558-Guys-1079/IXI558-Guys-1079-MRA.nii.gz",
+                "IXI558-Guys-1079/IXI558-Guys-1079-PD.nii.gz",
+                "IXI558-Guys-1079/IXI558-Guys-1079-T1.nii.gz",
+                "IXI558-Guys-1079/IXI558-Guys-1079-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI559-HH-2394/IXI559-HH-2394-MRA.nii.gz",
+                "IXI559-HH-2394/IXI559-HH-2394-PD.nii.gz",
+                "IXI559-HH-2394/IXI559-HH-2394-T1.nii.gz",
+                "IXI559-HH-2394/IXI559-HH-2394-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI561-IOP-1152/IXI561-IOP-1152-MRA.nii.gz",
+                "IXI561-IOP-1152/IXI561-IOP-1152-PD.nii.gz",
+                "IXI561-IOP-1152/IXI561-IOP-1152-T1.nii.gz",
+                "IXI561-IOP-1152/IXI561-IOP-1152-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI562-Guys-1131/IXI562-Guys-1131-MRA.nii.gz",
+                "IXI562-Guys-1131/IXI562-Guys-1131-PD.nii.gz",
+                "IXI562-Guys-1131/IXI562-Guys-1131-T1.nii.gz",
+                "IXI562-Guys-1131/IXI562-Guys-1131-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI563-IOP-1153/IXI563-IOP-1153-MRA.nii.gz",
+                "IXI563-IOP-1153/IXI563-IOP-1153-PD.nii.gz",
+                "IXI563-IOP-1153/IXI563-IOP-1153-T1.nii.gz",
+                "IXI563-IOP-1153/IXI563-IOP-1153-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI565-HH-2534/IXI565-HH-2534-MRA.nii.gz",
+                "IXI565-HH-2534/IXI565-HH-2534-PD.nii.gz",
+                "IXI565-HH-2534/IXI565-HH-2534-T1.nii.gz",
+                "IXI565-HH-2534/IXI565-HH-2534-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI566-HH-2535/IXI566-HH-2535-MRA.nii.gz",
+                "IXI566-HH-2535/IXI566-HH-2535-PD.nii.gz",
+                "IXI566-HH-2535/IXI566-HH-2535-T1.nii.gz",
+                "IXI566-HH-2535/IXI566-HH-2535-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI567-HH-2536/IXI567-HH-2536-MRA.nii.gz",
+                "IXI567-HH-2536/IXI567-HH-2536-PD.nii.gz",
+                "IXI567-HH-2536/IXI567-HH-2536-T1.nii.gz",
+                "IXI567-HH-2536/IXI567-HH-2536-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI569-Guys-1101/IXI569-Guys-1101-MRA.nii.gz",
+                "IXI569-Guys-1101/IXI569-Guys-1101-PD.nii.gz",
+                "IXI569-Guys-1101/IXI569-Guys-1101-T1.nii.gz",
+                "IXI569-Guys-1101/IXI569-Guys-1101-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI571-IOP-1154/IXI571-IOP-1154-MRA.nii.gz",
+                "IXI571-IOP-1154/IXI571-IOP-1154-PD.nii.gz",
+                "IXI571-IOP-1154/IXI571-IOP-1154-T1.nii.gz",
+                "IXI571-IOP-1154/IXI571-IOP-1154-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI572-HH-2605/IXI572-HH-2605-MRA.nii.gz",
+                "IXI572-HH-2605/IXI572-HH-2605-PD.nii.gz",
+                "IXI572-HH-2605/IXI572-HH-2605-T1.nii.gz",
+                "IXI572-HH-2605/IXI572-HH-2605-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI573-IOP-1155/IXI573-IOP-1155-MRA.nii.gz",
+                "IXI573-IOP-1155/IXI573-IOP-1155-PD.nii.gz",
+                "IXI573-IOP-1155/IXI573-IOP-1155-T1.nii.gz",
+                "IXI573-IOP-1155/IXI573-IOP-1155-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI574-IOP-1156/IXI574-IOP-1156-MRA.nii.gz",
+                "IXI574-IOP-1156/IXI574-IOP-1156-PD.nii.gz",
+                "IXI574-IOP-1156/IXI574-IOP-1156-T1.nii.gz",
+                "IXI574-IOP-1156/IXI574-IOP-1156-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI575-HH-2658/IXI575-HH-2658-MRA.nii.gz",
+                "IXI575-HH-2658/IXI575-HH-2658-PD.nii.gz",
+                "IXI575-HH-2658/IXI575-HH-2658-T1.nii.gz",
+                "IXI575-HH-2658/IXI575-HH-2658-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI576-Guys-1077/IXI576-Guys-1077-MRA.nii.gz",
+                "IXI576-Guys-1077/IXI576-Guys-1077-PD.nii.gz",
+                "IXI576-Guys-1077/IXI576-Guys-1077-T1.nii.gz",
+                "IXI576-Guys-1077/IXI576-Guys-1077-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI582-Guys-1127/IXI582-Guys-1127-MRA.nii.gz",
+                "IXI582-Guys-1127/IXI582-Guys-1127-PD.nii.gz",
+                "IXI582-Guys-1127/IXI582-Guys-1127-T1.nii.gz",
+                "IXI582-Guys-1127/IXI582-Guys-1127-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI584-Guys-1129/IXI584-Guys-1129-MRA.nii.gz",
+                "IXI584-Guys-1129/IXI584-Guys-1129-PD.nii.gz",
+                "IXI584-Guys-1129/IXI584-Guys-1129-T1.nii.gz",
+                "IXI584-Guys-1129/IXI584-Guys-1129-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI585-Guys-1130/IXI585-Guys-1130-MRA.nii.gz",
+                "IXI585-Guys-1130/IXI585-Guys-1130-PD.nii.gz",
+                "IXI585-Guys-1130/IXI585-Guys-1130-T1.nii.gz",
+                "IXI585-Guys-1130/IXI585-Guys-1130-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI586-HH-2451/IXI586-HH-2451-MRA.nii.gz",
+                "IXI586-HH-2451/IXI586-HH-2451-PD.nii.gz",
+                "IXI586-HH-2451/IXI586-HH-2451-T1.nii.gz",
+                "IXI586-HH-2451/IXI586-HH-2451-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI587-Guys-1128/IXI587-Guys-1128-MRA.nii.gz",
+                "IXI587-Guys-1128/IXI587-Guys-1128-PD.nii.gz",
+                "IXI587-Guys-1128/IXI587-Guys-1128-T1.nii.gz",
+                "IXI587-Guys-1128/IXI587-Guys-1128-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI588-IOP-1158/IXI588-IOP-1158-MRA.nii.gz",
+                "IXI588-IOP-1158/IXI588-IOP-1158-PD.nii.gz",
+                "IXI588-IOP-1158/IXI588-IOP-1158-T1.nii.gz",
+                "IXI588-IOP-1158/IXI588-IOP-1158-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI591-Guys-1084/IXI591-Guys-1084-MRA.nii.gz",
+                "IXI591-Guys-1084/IXI591-Guys-1084-PD.nii.gz",
+                "IXI591-Guys-1084/IXI591-Guys-1084-T1.nii.gz",
+                "IXI591-Guys-1084/IXI591-Guys-1084-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI593-Guys-1109/IXI593-Guys-1109-MRA.nii.gz",
+                "IXI593-Guys-1109/IXI593-Guys-1109-PD.nii.gz",
+                "IXI593-Guys-1109/IXI593-Guys-1109-T1.nii.gz",
+                "IXI593-Guys-1109/IXI593-Guys-1109-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI594-Guys-1089/IXI594-Guys-1089-MRA.nii.gz",
+                "IXI594-Guys-1089/IXI594-Guys-1089-PD.nii.gz",
+                "IXI594-Guys-1089/IXI594-Guys-1089-T1.nii.gz",
+                "IXI594-Guys-1089/IXI594-Guys-1089-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI595-IOP-1159/IXI595-IOP-1159-MRA.nii.gz",
+                "IXI595-IOP-1159/IXI595-IOP-1159-PD.nii.gz",
+                "IXI595-IOP-1159/IXI595-IOP-1159-T1.nii.gz",
+                "IXI595-IOP-1159/IXI595-IOP-1159-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI596-IOP-1160/IXI596-IOP-1160-MRA.nii.gz",
+                "IXI596-IOP-1160/IXI596-IOP-1160-PD.nii.gz",
+                "IXI596-IOP-1160/IXI596-IOP-1160-T1.nii.gz",
+                "IXI596-IOP-1160/IXI596-IOP-1160-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI598-HH-2606/IXI598-HH-2606-MRA.nii.gz",
+                "IXI598-HH-2606/IXI598-HH-2606-PD.nii.gz",
+                "IXI598-HH-2606/IXI598-HH-2606-T1.nii.gz",
+                "IXI598-HH-2606/IXI598-HH-2606-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI599-HH-2659/IXI599-HH-2659-MRA.nii.gz",
+                "IXI599-HH-2659/IXI599-HH-2659-PD.nii.gz",
+                "IXI599-HH-2659/IXI599-HH-2659-T1.nii.gz",
+                "IXI599-HH-2659/IXI599-HH-2659-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI600-HH-2660/IXI600-HH-2660-MRA.nii.gz",
+                "IXI600-HH-2660/IXI600-HH-2660-PD.nii.gz",
+                "IXI600-HH-2660/IXI600-HH-2660-T1.nii.gz",
+                "IXI600-HH-2660/IXI600-HH-2660-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI601-HH-2700/IXI601-HH-2700-MRA.nii.gz",
+                "IXI601-HH-2700/IXI601-HH-2700-PD.nii.gz",
+                "IXI601-HH-2700/IXI601-HH-2700-T1.nii.gz",
+                "IXI601-HH-2700/IXI601-HH-2700-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI603-HH-2701/IXI603-HH-2701-MRA.nii.gz",
+                "IXI603-HH-2701/IXI603-HH-2701-PD.nii.gz",
+                "IXI603-HH-2701/IXI603-HH-2701-T1.nii.gz",
+                "IXI603-HH-2701/IXI603-HH-2701-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI605-HH-2598/IXI605-HH-2598-MRA.nii.gz",
+                "IXI605-HH-2598/IXI605-HH-2598-PD.nii.gz",
+                "IXI605-HH-2598/IXI605-HH-2598-T1.nii.gz",
+                "IXI605-HH-2598/IXI605-HH-2598-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI606-HH-2601/IXI606-HH-2601-MRA.nii.gz",
+                "IXI606-HH-2601/IXI606-HH-2601-PD.nii.gz",
+                "IXI606-HH-2601/IXI606-HH-2601-T1.nii.gz",
+                "IXI606-HH-2601/IXI606-HH-2601-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI607-Guys-1097/IXI607-Guys-1097-MRA.nii.gz",
+                "IXI607-Guys-1097/IXI607-Guys-1097-PD.nii.gz",
+                "IXI607-Guys-1097/IXI607-Guys-1097-T1.nii.gz",
+                "IXI607-Guys-1097/IXI607-Guys-1097-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI608-HH-2599/IXI608-HH-2599-MRA.nii.gz",
+                "IXI608-HH-2599/IXI608-HH-2599-PD.nii.gz",
+                "IXI608-HH-2599/IXI608-HH-2599-T1.nii.gz",
+                "IXI608-HH-2599/IXI608-HH-2599-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI609-HH-2600/IXI609-HH-2600-MRA.nii.gz",
+                "IXI609-HH-2600/IXI609-HH-2600-PD.nii.gz",
+                "IXI609-HH-2600/IXI609-HH-2600-T1.nii.gz",
+                "IXI609-HH-2600/IXI609-HH-2600-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI610-HH-2649/IXI610-HH-2649-MRA.nii.gz",
+                "IXI610-HH-2649/IXI610-HH-2649-PD.nii.gz",
+                "IXI610-HH-2649/IXI610-HH-2649-T1.nii.gz",
+                "IXI610-HH-2649/IXI610-HH-2649-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI611-HH-2650/IXI611-HH-2650-MRA.nii.gz",
+                "IXI611-HH-2650/IXI611-HH-2650-PD.nii.gz",
+                "IXI611-HH-2650/IXI611-HH-2650-T1.nii.gz",
+                "IXI611-HH-2650/IXI611-HH-2650-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI612-HH-2688/IXI612-HH-2688-MRA.nii.gz",
+                "IXI612-HH-2688/IXI612-HH-2688-PD.nii.gz",
+                "IXI612-HH-2688/IXI612-HH-2688-T1.nii.gz",
+                "IXI612-HH-2688/IXI612-HH-2688-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI613-HH-2734/IXI613-HH-2734-MRA.nii.gz",
+                "IXI613-HH-2734/IXI613-HH-2734-PD.nii.gz",
+                "IXI613-HH-2734/IXI613-HH-2734-T1.nii.gz",
+                "IXI613-HH-2734/IXI613-HH-2734-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI614-HH-2735/IXI614-HH-2735-MRA.nii.gz",
+                "IXI614-HH-2735/IXI614-HH-2735-PD.nii.gz",
+                "IXI614-HH-2735/IXI614-HH-2735-T1.nii.gz",
+                "IXI614-HH-2735/IXI614-HH-2735-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI616-Guys-1092/IXI616-Guys-1092-MRA.nii.gz",
+                "IXI616-Guys-1092/IXI616-Guys-1092-PD.nii.gz",
+                "IXI616-Guys-1092/IXI616-Guys-1092-T1.nii.gz",
+                "IXI616-Guys-1092/IXI616-Guys-1092-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI617-Guys-1090/IXI617-Guys-1090-MRA.nii.gz",
+                "IXI617-Guys-1090/IXI617-Guys-1090-PD.nii.gz",
+                "IXI617-Guys-1090/IXI617-Guys-1090-T1.nii.gz",
+                "IXI617-Guys-1090/IXI617-Guys-1090-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI618-Guys-1091/IXI618-Guys-1091-MRA.nii.gz",
+                "IXI618-Guys-1091/IXI618-Guys-1091-PD.nii.gz",
+                "IXI618-Guys-1091/IXI618-Guys-1091-T1.nii.gz",
+                "IXI618-Guys-1091/IXI618-Guys-1091-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI619-Guys-1099/IXI619-Guys-1099-MRA.nii.gz",
+                "IXI619-Guys-1099/IXI619-Guys-1099-PD.nii.gz",
+                "IXI619-Guys-1099/IXI619-Guys-1099-T1.nii.gz",
+                "IXI619-Guys-1099/IXI619-Guys-1099-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI621-Guys-1100/IXI621-Guys-1100-MRA.nii.gz",
+                "IXI621-Guys-1100/IXI621-Guys-1100-PD.nii.gz",
+                "IXI621-Guys-1100/IXI621-Guys-1100-T1.nii.gz",
+                "IXI621-Guys-1100/IXI621-Guys-1100-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI622-Guys-1102/IXI622-Guys-1102-MRA.nii.gz",
+                "IXI622-Guys-1102/IXI622-Guys-1102-PD.nii.gz",
+                "IXI622-Guys-1102/IXI622-Guys-1102-T1.nii.gz",
+                "IXI622-Guys-1102/IXI622-Guys-1102-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI623-Guys-1076/IXI623-Guys-1076-MRA.nii.gz",
+                "IXI623-Guys-1076/IXI623-Guys-1076-PD.nii.gz",
+                "IXI623-Guys-1076/IXI623-Guys-1076-T1.nii.gz",
+                "IXI623-Guys-1076/IXI623-Guys-1076-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI626-Guys-1094/IXI626-Guys-1094-MRA.nii.gz",
+                "IXI626-Guys-1094/IXI626-Guys-1094-PD.nii.gz",
+                "IXI626-Guys-1094/IXI626-Guys-1094-T1.nii.gz",
+                "IXI626-Guys-1094/IXI626-Guys-1094-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI627-Guys-1103/IXI627-Guys-1103-MRA.nii.gz",
+                "IXI627-Guys-1103/IXI627-Guys-1103-PD.nii.gz",
+                "IXI627-Guys-1103/IXI627-Guys-1103-T1.nii.gz",
+                "IXI627-Guys-1103/IXI627-Guys-1103-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI629-Guys-1095/IXI629-Guys-1095-MRA.nii.gz",
+                "IXI629-Guys-1095/IXI629-Guys-1095-PD.nii.gz",
+                "IXI629-Guys-1095/IXI629-Guys-1095-T1.nii.gz",
+                "IXI629-Guys-1095/IXI629-Guys-1095-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI630-Guys-1108/IXI630-Guys-1108-MRA.nii.gz",
+                "IXI630-Guys-1108/IXI630-Guys-1108-PD.nii.gz",
+                "IXI630-Guys-1108/IXI630-Guys-1108-T1.nii.gz",
+                "IXI630-Guys-1108/IXI630-Guys-1108-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI631-HH-2651/IXI631-HH-2651-MRA.nii.gz",
+                "IXI631-HH-2651/IXI631-HH-2651-PD.nii.gz",
+                "IXI631-HH-2651/IXI631-HH-2651-T1.nii.gz",
+                "IXI631-HH-2651/IXI631-HH-2651-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI632-HH-2652/IXI632-HH-2652-MRA.nii.gz",
+                "IXI632-HH-2652/IXI632-HH-2652-PD.nii.gz",
+                "IXI632-HH-2652/IXI632-HH-2652-T1.nii.gz",
+                "IXI632-HH-2652/IXI632-HH-2652-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI633-HH-2689/IXI633-HH-2689-MRA.nii.gz",
+                "IXI633-HH-2689/IXI633-HH-2689-PD.nii.gz",
+                "IXI633-HH-2689/IXI633-HH-2689-T1.nii.gz",
+                "IXI633-HH-2689/IXI633-HH-2689-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI634-HH-2690/IXI634-HH-2690-MRA.nii.gz",
+                "IXI634-HH-2690/IXI634-HH-2690-PD.nii.gz",
+                "IXI634-HH-2690/IXI634-HH-2690-T1.nii.gz",
+                "IXI634-HH-2690/IXI634-HH-2690-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI635-HH-2691/IXI635-HH-2691-MRA.nii.gz",
+                "IXI635-HH-2691/IXI635-HH-2691-PD.nii.gz",
+                "IXI635-HH-2691/IXI635-HH-2691-T1.nii.gz",
+                "IXI635-HH-2691/IXI635-HH-2691-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI636-HH-2733/IXI636-HH-2733-MRA.nii.gz",
+                "IXI636-HH-2733/IXI636-HH-2733-PD.nii.gz",
+                "IXI636-HH-2733/IXI636-HH-2733-T1.nii.gz",
+                "IXI636-HH-2733/IXI636-HH-2733-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI637-HH-2785/IXI637-HH-2785-MRA.nii.gz",
+                "IXI637-HH-2785/IXI637-HH-2785-PD.nii.gz",
+                "IXI637-HH-2785/IXI637-HH-2785-T1.nii.gz",
+                "IXI637-HH-2785/IXI637-HH-2785-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI638-HH-2786/IXI638-HH-2786-MRA.nii.gz",
+                "IXI638-HH-2786/IXI638-HH-2786-PD.nii.gz",
+                "IXI638-HH-2786/IXI638-HH-2786-T1.nii.gz",
+                "IXI638-HH-2786/IXI638-HH-2786-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI639-Guys-1088/IXI639-Guys-1088-MRA.nii.gz",
+                "IXI639-Guys-1088/IXI639-Guys-1088-PD.nii.gz",
+                "IXI639-Guys-1088/IXI639-Guys-1088-T1.nii.gz",
+                "IXI639-Guys-1088/IXI639-Guys-1088-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI640-Guys-1106/IXI640-Guys-1106-MRA.nii.gz",
+                "IXI640-Guys-1106/IXI640-Guys-1106-PD.nii.gz",
+                "IXI640-Guys-1106/IXI640-Guys-1106-T1.nii.gz",
+                "IXI640-Guys-1106/IXI640-Guys-1106-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI643-HH-2787/IXI643-HH-2787-MRA.nii.gz",
+                "IXI643-HH-2787/IXI643-HH-2787-PD.nii.gz",
+                "IXI643-HH-2787/IXI643-HH-2787-T1.nii.gz",
+                "IXI643-HH-2787/IXI643-HH-2787-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI644-Guys-1121/IXI644-Guys-1121-MRA.nii.gz",
+                "IXI644-Guys-1121/IXI644-Guys-1121-PD.nii.gz",
+                "IXI644-Guys-1121/IXI644-Guys-1121-T1.nii.gz",
+                "IXI644-Guys-1121/IXI644-Guys-1121-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI646-HH-2653/IXI646-HH-2653-MRA.nii.gz",
+                "IXI646-HH-2653/IXI646-HH-2653-PD.nii.gz",
+                "IXI646-HH-2653/IXI646-HH-2653-T1.nii.gz",
+                "IXI646-HH-2653/IXI646-HH-2653-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI648-Guys-1107/IXI648-Guys-1107-MRA.nii.gz",
+                "IXI648-Guys-1107/IXI648-Guys-1107-PD.nii.gz",
+                "IXI648-Guys-1107/IXI648-Guys-1107-T1.nii.gz",
+                "IXI648-Guys-1107/IXI648-Guys-1107-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI652-Guys-1116/IXI652-Guys-1116-MRA.nii.gz",
+                "IXI652-Guys-1116/IXI652-Guys-1116-PD.nii.gz",
+                "IXI652-Guys-1116/IXI652-Guys-1116-T1.nii.gz",
+                "IXI652-Guys-1116/IXI652-Guys-1116-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI661-HH-2788/IXI661-HH-2788-MRA.nii.gz",
+                "IXI661-HH-2788/IXI661-HH-2788-PD.nii.gz",
+                "IXI661-HH-2788/IXI661-HH-2788-T1.nii.gz",
+                "IXI661-HH-2788/IXI661-HH-2788-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI662-Guys-1120/IXI662-Guys-1120-MRA.nii.gz",
+                "IXI662-Guys-1120/IXI662-Guys-1120-PD.nii.gz",
+                "IXI662-Guys-1120/IXI662-Guys-1120-T1.nii.gz",
+                "IXI662-Guys-1120/IXI662-Guys-1120-T2.nii.gz"
+            ]
+        }
+    ],
+    "validation": [
+        {
+            "image": [
+                "IXI019-Guys-0702/IXI019-Guys-0702-MRA.nii.gz",
+                "IXI019-Guys-0702/IXI019-Guys-0702-PD.nii.gz",
+                "IXI019-Guys-0702/IXI019-Guys-0702-T1.nii.gz",
+                "IXI019-Guys-0702/IXI019-Guys-0702-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI026-Guys-0696/IXI026-Guys-0696-MRA.nii.gz",
+                "IXI026-Guys-0696/IXI026-Guys-0696-PD.nii.gz",
+                "IXI026-Guys-0696/IXI026-Guys-0696-T1.nii.gz",
+                "IXI026-Guys-0696/IXI026-Guys-0696-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI028-Guys-1038/IXI028-Guys-1038-MRA.nii.gz",
+                "IXI028-Guys-1038/IXI028-Guys-1038-PD.nii.gz",
+                "IXI028-Guys-1038/IXI028-Guys-1038-T1.nii.gz",
+                "IXI028-Guys-1038/IXI028-Guys-1038-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI033-HH-1259/IXI033-HH-1259-MRA.nii.gz",
+                "IXI033-HH-1259/IXI033-HH-1259-PD.nii.gz",
+                "IXI033-HH-1259/IXI033-HH-1259-T1.nii.gz",
+                "IXI033-HH-1259/IXI033-HH-1259-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI037-Guys-0704/IXI037-Guys-0704-MRA.nii.gz",
+                "IXI037-Guys-0704/IXI037-Guys-0704-PD.nii.gz",
+                "IXI037-Guys-0704/IXI037-Guys-0704-T1.nii.gz",
+                "IXI037-Guys-0704/IXI037-Guys-0704-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI043-Guys-0714/IXI043-Guys-0714-MRA.nii.gz",
+                "IXI043-Guys-0714/IXI043-Guys-0714-PD.nii.gz",
+                "IXI043-Guys-0714/IXI043-Guys-0714-T1.nii.gz",
+                "IXI043-Guys-0714/IXI043-Guys-0714-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI045-Guys-0713/IXI045-Guys-0713-MRA.nii.gz",
+                "IXI045-Guys-0713/IXI045-Guys-0713-PD.nii.gz",
+                "IXI045-Guys-0713/IXI045-Guys-0713-T1.nii.gz",
+                "IXI045-Guys-0713/IXI045-Guys-0713-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI049-HH-1358/IXI049-HH-1358-MRA.nii.gz",
+                "IXI049-HH-1358/IXI049-HH-1358-PD.nii.gz",
+                "IXI049-HH-1358/IXI049-HH-1358-T1.nii.gz",
+                "IXI049-HH-1358/IXI049-HH-1358-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI052-HH-1343/IXI052-HH-1343-MRA.nii.gz",
+                "IXI052-HH-1343/IXI052-HH-1343-PD.nii.gz",
+                "IXI052-HH-1343/IXI052-HH-1343-T1.nii.gz",
+                "IXI052-HH-1343/IXI052-HH-1343-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI054-Guys-0707/IXI054-Guys-0707-MRA.nii.gz",
+                "IXI054-Guys-0707/IXI054-Guys-0707-PD.nii.gz",
+                "IXI054-Guys-0707/IXI054-Guys-0707-T1.nii.gz",
+                "IXI054-Guys-0707/IXI054-Guys-0707-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI073-Guys-0755/IXI073-Guys-0755-MRA.nii.gz",
+                "IXI073-Guys-0755/IXI073-Guys-0755-PD.nii.gz",
+                "IXI073-Guys-0755/IXI073-Guys-0755-T1.nii.gz",
+                "IXI073-Guys-0755/IXI073-Guys-0755-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI081-Guys-0855/IXI081-Guys-0855-MRA.nii.gz",
+                "IXI081-Guys-0855/IXI081-Guys-0855-PD.nii.gz",
+                "IXI081-Guys-0855/IXI081-Guys-0855-T1.nii.gz",
+                "IXI081-Guys-0855/IXI081-Guys-0855-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI088-Guys-0758/IXI088-Guys-0758-MRA.nii.gz",
+                "IXI088-Guys-0758/IXI088-Guys-0758-PD.nii.gz",
+                "IXI088-Guys-0758/IXI088-Guys-0758-T1.nii.gz",
+                "IXI088-Guys-0758/IXI088-Guys-0758-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI096-HH-1391/IXI096-HH-1391-MRA.nii.gz",
+                "IXI096-HH-1391/IXI096-HH-1391-PD.nii.gz",
+                "IXI096-HH-1391/IXI096-HH-1391-T1.nii.gz",
+                "IXI096-HH-1391/IXI096-HH-1391-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI121-Guys-0772/IXI121-Guys-0772-MRA.nii.gz",
+                "IXI121-Guys-0772/IXI121-Guys-0772-PD.nii.gz",
+                "IXI121-Guys-0772/IXI121-Guys-0772-T1.nii.gz",
+                "IXI121-Guys-0772/IXI121-Guys-0772-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI137-HH-1472/IXI137-HH-1472-MRA.nii.gz",
+                "IXI137-HH-1472/IXI137-HH-1472-PD.nii.gz",
+                "IXI137-HH-1472/IXI137-HH-1472-T1.nii.gz",
+                "IXI137-HH-1472/IXI137-HH-1472-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI146-HH-1389/IXI146-HH-1389-MRA.nii.gz",
+                "IXI146-HH-1389/IXI146-HH-1389-PD.nii.gz",
+                "IXI146-HH-1389/IXI146-HH-1389-T1.nii.gz",
+                "IXI146-HH-1389/IXI146-HH-1389-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI158-Guys-0783/IXI158-Guys-0783-MRA.nii.gz",
+                "IXI158-Guys-0783/IXI158-Guys-0783-PD.nii.gz",
+                "IXI158-Guys-0783/IXI158-Guys-0783-T1.nii.gz",
+                "IXI158-Guys-0783/IXI158-Guys-0783-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI170-Guys-0843/IXI170-Guys-0843-MRA.nii.gz",
+                "IXI170-Guys-0843/IXI170-Guys-0843-PD.nii.gz",
+                "IXI170-Guys-0843/IXI170-Guys-0843-T1.nii.gz",
+                "IXI170-Guys-0843/IXI170-Guys-0843-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI178-Guys-0778/IXI178-Guys-0778-MRA.nii.gz",
+                "IXI178-Guys-0778/IXI178-Guys-0778-PD.nii.gz",
+                "IXI178-Guys-0778/IXI178-Guys-0778-T1.nii.gz",
+                "IXI178-Guys-0778/IXI178-Guys-0778-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI179-Guys-0777/IXI179-Guys-0777-MRA.nii.gz",
+                "IXI179-Guys-0777/IXI179-Guys-0777-PD.nii.gz",
+                "IXI179-Guys-0777/IXI179-Guys-0777-T1.nii.gz",
+                "IXI179-Guys-0777/IXI179-Guys-0777-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI193-Guys-0810/IXI193-Guys-0810-MRA.nii.gz",
+                "IXI193-Guys-0810/IXI193-Guys-0810-PD.nii.gz",
+                "IXI193-Guys-0810/IXI193-Guys-0810-T1.nii.gz",
+                "IXI193-Guys-0810/IXI193-Guys-0810-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI223-Guys-0830/IXI223-Guys-0830-MRA.nii.gz",
+                "IXI223-Guys-0830/IXI223-Guys-0830-PD.nii.gz",
+                "IXI223-Guys-0830/IXI223-Guys-0830-T1.nii.gz",
+                "IXI223-Guys-0830/IXI223-Guys-0830-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI238-IOP-0883/IXI238-IOP-0883-MRA.nii.gz",
+                "IXI238-IOP-0883/IXI238-IOP-0883-PD.nii.gz",
+                "IXI238-IOP-0883/IXI238-IOP-0883-T1.nii.gz",
+                "IXI238-IOP-0883/IXI238-IOP-0883-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI246-Guys-0840/IXI246-Guys-0840-MRA.nii.gz",
+                "IXI246-Guys-0840/IXI246-Guys-0840-PD.nii.gz",
+                "IXI246-Guys-0840/IXI246-Guys-0840-T1.nii.gz",
+                "IXI246-Guys-0840/IXI246-Guys-0840-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI266-Guys-0853/IXI266-Guys-0853-MRA.nii.gz",
+                "IXI266-Guys-0853/IXI266-Guys-0853-PD.nii.gz",
+                "IXI266-Guys-0853/IXI266-Guys-0853-T1.nii.gz",
+                "IXI266-Guys-0853/IXI266-Guys-0853-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI275-HH-1803/IXI275-HH-1803-MRA.nii.gz",
+                "IXI275-HH-1803/IXI275-HH-1803-PD.nii.gz",
+                "IXI275-HH-1803/IXI275-HH-1803-T1.nii.gz",
+                "IXI275-HH-1803/IXI275-HH-1803-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI291-IOP-0882/IXI291-IOP-0882-MRA.nii.gz",
+                "IXI291-IOP-0882/IXI291-IOP-0882-PD.nii.gz",
+                "IXI291-IOP-0882/IXI291-IOP-0882-T1.nii.gz",
+                "IXI291-IOP-0882/IXI291-IOP-0882-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI306-IOP-0867/IXI306-IOP-0867-MRA.nii.gz",
+                "IXI306-IOP-0867/IXI306-IOP-0867-PD.nii.gz",
+                "IXI306-IOP-0867/IXI306-IOP-0867-T1.nii.gz",
+                "IXI306-IOP-0867/IXI306-IOP-0867-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI308-Guys-0884/IXI308-Guys-0884-MRA.nii.gz",
+                "IXI308-Guys-0884/IXI308-Guys-0884-PD.nii.gz",
+                "IXI308-Guys-0884/IXI308-Guys-0884-T1.nii.gz",
+                "IXI308-Guys-0884/IXI308-Guys-0884-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI329-HH-1908/IXI329-HH-1908-MRA.nii.gz",
+                "IXI329-HH-1908/IXI329-HH-1908-PD.nii.gz",
+                "IXI329-HH-1908/IXI329-HH-1908-T1.nii.gz",
+                "IXI329-HH-1908/IXI329-HH-1908-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI335-HH-1906/IXI335-HH-1906-MRA.nii.gz",
+                "IXI335-HH-1906/IXI335-HH-1906-PD.nii.gz",
+                "IXI335-HH-1906/IXI335-HH-1906-T1.nii.gz",
+                "IXI335-HH-1906/IXI335-HH-1906-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI342-Guys-0909/IXI342-Guys-0909-MRA.nii.gz",
+                "IXI342-Guys-0909/IXI342-Guys-0909-PD.nii.gz",
+                "IXI342-Guys-0909/IXI342-Guys-0909-T1.nii.gz",
+                "IXI342-Guys-0909/IXI342-Guys-0909-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI347-IOP-0927/IXI347-IOP-0927-MRA.nii.gz",
+                "IXI347-IOP-0927/IXI347-IOP-0927-PD.nii.gz",
+                "IXI347-IOP-0927/IXI347-IOP-0927-T1.nii.gz",
+                "IXI347-IOP-0927/IXI347-IOP-0927-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI365-Guys-0923/IXI365-Guys-0923-MRA.nii.gz",
+                "IXI365-Guys-0923/IXI365-Guys-0923-PD.nii.gz",
+                "IXI365-Guys-0923/IXI365-Guys-0923-T1.nii.gz",
+                "IXI365-Guys-0923/IXI365-Guys-0923-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI371-IOP-0970/IXI371-IOP-0970-MRA.nii.gz",
+                "IXI371-IOP-0970/IXI371-IOP-0970-PD.nii.gz",
+                "IXI371-IOP-0970/IXI371-IOP-0970-T1.nii.gz",
+                "IXI371-IOP-0970/IXI371-IOP-0970-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI373-IOP-0967/IXI373-IOP-0967-MRA.nii.gz",
+                "IXI373-IOP-0967/IXI373-IOP-0967-PD.nii.gz",
+                "IXI373-IOP-0967/IXI373-IOP-0967-T1.nii.gz",
+                "IXI373-IOP-0967/IXI373-IOP-0967-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI379-Guys-0943/IXI379-Guys-0943-MRA.nii.gz",
+                "IXI379-Guys-0943/IXI379-Guys-0943-PD.nii.gz",
+                "IXI379-Guys-0943/IXI379-Guys-0943-T1.nii.gz",
+                "IXI379-Guys-0943/IXI379-Guys-0943-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI384-HH-2100/IXI384-HH-2100-MRA.nii.gz",
+                "IXI384-HH-2100/IXI384-HH-2100-PD.nii.gz",
+                "IXI384-HH-2100/IXI384-HH-2100-T1.nii.gz",
+                "IXI384-HH-2100/IXI384-HH-2100-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI399-Guys-0966/IXI399-Guys-0966-MRA.nii.gz",
+                "IXI399-Guys-0966/IXI399-Guys-0966-PD.nii.gz",
+                "IXI399-Guys-0966/IXI399-Guys-0966-T1.nii.gz",
+                "IXI399-Guys-0966/IXI399-Guys-0966-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI402-Guys-0961/IXI402-Guys-0961-MRA.nii.gz",
+                "IXI402-Guys-0961/IXI402-Guys-0961-PD.nii.gz",
+                "IXI402-Guys-0961/IXI402-Guys-0961-T1.nii.gz",
+                "IXI402-Guys-0961/IXI402-Guys-0961-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI405-Guys-0948/IXI405-Guys-0948-MRA.nii.gz",
+                "IXI405-Guys-0948/IXI405-Guys-0948-PD.nii.gz",
+                "IXI405-Guys-0948/IXI405-Guys-0948-T1.nii.gz",
+                "IXI405-Guys-0948/IXI405-Guys-0948-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI416-Guys-1051/IXI416-Guys-1051-MRA.nii.gz",
+                "IXI416-Guys-1051/IXI416-Guys-1051-PD.nii.gz",
+                "IXI416-Guys-1051/IXI416-Guys-1051-T1.nii.gz",
+                "IXI416-Guys-1051/IXI416-Guys-1051-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI426-IOP-1011/IXI426-IOP-1011-MRA.nii.gz",
+                "IXI426-IOP-1011/IXI426-IOP-1011-PD.nii.gz",
+                "IXI426-IOP-1011/IXI426-IOP-1011-T1.nii.gz",
+                "IXI426-IOP-1011/IXI426-IOP-1011-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI433-IOP-0989/IXI433-IOP-0989-MRA.nii.gz",
+                "IXI433-IOP-0989/IXI433-IOP-0989-PD.nii.gz",
+                "IXI433-IOP-0989/IXI433-IOP-0989-T1.nii.gz",
+                "IXI433-IOP-0989/IXI433-IOP-0989-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI434-IOP-1010/IXI434-IOP-1010-MRA.nii.gz",
+                "IXI434-IOP-1010/IXI434-IOP-1010-PD.nii.gz",
+                "IXI434-IOP-1010/IXI434-IOP-1010-T1.nii.gz",
+                "IXI434-IOP-1010/IXI434-IOP-1010-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI438-HH-2155/IXI438-HH-2155-MRA.nii.gz",
+                "IXI438-HH-2155/IXI438-HH-2155-PD.nii.gz",
+                "IXI438-HH-2155/IXI438-HH-2155-T1.nii.gz",
+                "IXI438-HH-2155/IXI438-HH-2155-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI444-HH-2270/IXI444-HH-2270-MRA.nii.gz",
+                "IXI444-HH-2270/IXI444-HH-2270-PD.nii.gz",
+                "IXI444-HH-2270/IXI444-HH-2270-T1.nii.gz",
+                "IXI444-HH-2270/IXI444-HH-2270-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI454-Guys-1083/IXI454-Guys-1083-MRA.nii.gz",
+                "IXI454-Guys-1083/IXI454-Guys-1083-PD.nii.gz",
+                "IXI454-Guys-1083/IXI454-Guys-1083-T1.nii.gz",
+                "IXI454-Guys-1083/IXI454-Guys-1083-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI457-Guys-0984/IXI457-Guys-0984-MRA.nii.gz",
+                "IXI457-Guys-0984/IXI457-Guys-0984-PD.nii.gz",
+                "IXI457-Guys-0984/IXI457-Guys-0984-T1.nii.gz",
+                "IXI457-Guys-0984/IXI457-Guys-0984-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI458-Guys-0993/IXI458-Guys-0993-MRA.nii.gz",
+                "IXI458-Guys-0993/IXI458-Guys-0993-PD.nii.gz",
+                "IXI458-Guys-0993/IXI458-Guys-0993-T1.nii.gz",
+                "IXI458-Guys-0993/IXI458-Guys-0993-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI473-IOP-1137/IXI473-IOP-1137-MRA.nii.gz",
+                "IXI473-IOP-1137/IXI473-IOP-1137-PD.nii.gz",
+                "IXI473-IOP-1137/IXI473-IOP-1137-T1.nii.gz",
+                "IXI473-IOP-1137/IXI473-IOP-1137-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI475-IOP-1139/IXI475-IOP-1139-MRA.nii.gz",
+                "IXI475-IOP-1139/IXI475-IOP-1139-PD.nii.gz",
+                "IXI475-IOP-1139/IXI475-IOP-1139-T1.nii.gz",
+                "IXI475-IOP-1139/IXI475-IOP-1139-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI476-IOP-1140/IXI476-IOP-1140-MRA.nii.gz",
+                "IXI476-IOP-1140/IXI476-IOP-1140-PD.nii.gz",
+                "IXI476-IOP-1140/IXI476-IOP-1140-T1.nii.gz",
+                "IXI476-IOP-1140/IXI476-IOP-1140-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI481-HH-2175/IXI481-HH-2175-MRA.nii.gz",
+                "IXI481-HH-2175/IXI481-HH-2175-PD.nii.gz",
+                "IXI481-HH-2175/IXI481-HH-2175-T1.nii.gz",
+                "IXI481-HH-2175/IXI481-HH-2175-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI516-HH-2297/IXI516-HH-2297-MRA.nii.gz",
+                "IXI516-HH-2297/IXI516-HH-2297-PD.nii.gz",
+                "IXI516-HH-2297/IXI516-HH-2297-T1.nii.gz",
+                "IXI516-HH-2297/IXI516-HH-2297-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI526-HH-2392/IXI526-HH-2392-MRA.nii.gz",
+                "IXI526-HH-2392/IXI526-HH-2392-PD.nii.gz",
+                "IXI526-HH-2392/IXI526-HH-2392-T1.nii.gz",
+                "IXI526-HH-2392/IXI526-HH-2392-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI538-HH-2411/IXI538-HH-2411-MRA.nii.gz",
+                "IXI538-HH-2411/IXI538-HH-2411-PD.nii.gz",
+                "IXI538-HH-2411/IXI538-HH-2411-T1.nii.gz",
+                "IXI538-HH-2411/IXI538-HH-2411-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI546-HH-2450/IXI546-HH-2450-MRA.nii.gz",
+                "IXI546-HH-2450/IXI546-HH-2450-PD.nii.gz",
+                "IXI546-HH-2450/IXI546-HH-2450-T1.nii.gz",
+                "IXI546-HH-2450/IXI546-HH-2450-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI548-IOP-1150/IXI548-IOP-1150-MRA.nii.gz",
+                "IXI548-IOP-1150/IXI548-IOP-1150-PD.nii.gz",
+                "IXI548-IOP-1150/IXI548-IOP-1150-T1.nii.gz",
+                "IXI548-IOP-1150/IXI548-IOP-1150-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI550-Guys-1069/IXI550-Guys-1069-MRA.nii.gz",
+                "IXI550-Guys-1069/IXI550-Guys-1069-PD.nii.gz",
+                "IXI550-Guys-1069/IXI550-Guys-1069-T1.nii.gz",
+                "IXI550-Guys-1069/IXI550-Guys-1069-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI560-Guys-1070/IXI560-Guys-1070-MRA.nii.gz",
+                "IXI560-Guys-1070/IXI560-Guys-1070-PD.nii.gz",
+                "IXI560-Guys-1070/IXI560-Guys-1070-T1.nii.gz",
+                "IXI560-Guys-1070/IXI560-Guys-1070-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI568-HH-2607/IXI568-HH-2607-MRA.nii.gz",
+                "IXI568-HH-2607/IXI568-HH-2607-PD.nii.gz",
+                "IXI568-HH-2607/IXI568-HH-2607-T1.nii.gz",
+                "IXI568-HH-2607/IXI568-HH-2607-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI577-HH-2661/IXI577-HH-2661-MRA.nii.gz",
+                "IXI577-HH-2661/IXI577-HH-2661-PD.nii.gz",
+                "IXI577-HH-2661/IXI577-HH-2661-T1.nii.gz",
+                "IXI577-HH-2661/IXI577-HH-2661-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI579-Guys-1126/IXI579-Guys-1126-MRA.nii.gz",
+                "IXI579-Guys-1126/IXI579-Guys-1126-PD.nii.gz",
+                "IXI579-Guys-1126/IXI579-Guys-1126-T1.nii.gz",
+                "IXI579-Guys-1126/IXI579-Guys-1126-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI592-Guys-1085/IXI592-Guys-1085-MRA.nii.gz",
+                "IXI592-Guys-1085/IXI592-Guys-1085-PD.nii.gz",
+                "IXI592-Guys-1085/IXI592-Guys-1085-T1.nii.gz",
+                "IXI592-Guys-1085/IXI592-Guys-1085-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI597-IOP-1161/IXI597-IOP-1161-MRA.nii.gz",
+                "IXI597-IOP-1161/IXI597-IOP-1161-PD.nii.gz",
+                "IXI597-IOP-1161/IXI597-IOP-1161-T1.nii.gz",
+                "IXI597-IOP-1161/IXI597-IOP-1161-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI625-Guys-1098/IXI625-Guys-1098-MRA.nii.gz",
+                "IXI625-Guys-1098/IXI625-Guys-1098-PD.nii.gz",
+                "IXI625-Guys-1098/IXI625-Guys-1098-T1.nii.gz",
+                "IXI625-Guys-1098/IXI625-Guys-1098-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI641-Guys-1105/IXI641-Guys-1105-MRA.nii.gz",
+                "IXI641-Guys-1105/IXI641-Guys-1105-PD.nii.gz",
+                "IXI641-Guys-1105/IXI641-Guys-1105-T1.nii.gz",
+                "IXI641-Guys-1105/IXI641-Guys-1105-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI642-Guys-1104/IXI642-Guys-1104-MRA.nii.gz",
+                "IXI642-Guys-1104/IXI642-Guys-1104-PD.nii.gz",
+                "IXI642-Guys-1104/IXI642-Guys-1104-T1.nii.gz",
+                "IXI642-Guys-1104/IXI642-Guys-1104-T2.nii.gz"
+            ]
+        },
+        {
+            "image": [
+                "IXI653-Guys-1122/IXI653-Guys-1122-MRA.nii.gz",
+                "IXI653-Guys-1122/IXI653-Guys-1122-PD.nii.gz",
+                "IXI653-Guys-1122/IXI653-Guys-1122-T1.nii.gz",
+                "IXI653-Guys-1122/IXI653-Guys-1122-T2.nii.gz"
+            ]
+        }
+    ]
+}

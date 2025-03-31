@@ -1,0 +1,44 @@
+{
+    "BraTS2021": {
+        "series_name": [
+            "flair",
+            "t1",
+            "t1ce",
+            "t2"
+        ]
+    },
+    "BraTS2023_SSA": {
+        "series_name": [
+            "t1c",
+            "t1n",
+            "t2f",
+            "t2w"
+        ]
+    },
+    "BraTS2023_MEN": {
+        "series_name": [
+            "t1c",
+            "t1n",
+            "t2f",
+            "t2w"
+        ]
+    },
+    "BrainAtlas_registration_sir24": {
+        "series_name": [
+            "MRA",
+            "PD",
+            "T1",
+            "T2"
+        ]
+    },
+    "UCSF_upright_sir24": {
+        "series_name": [
+            "ADC",
+            "DWI",
+            "FLAIR",
+            "T1",
+            "T1c",
+            "T2"
+        ]
+    }
+}

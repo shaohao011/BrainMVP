@@ -6,7 +6,7 @@ python -m torch.distributed.launch --nproc_per_node=4 main.py \
 --dst_w 240 \
 --dst_d 155 \
 --max_epochs=1500 \
---start_epoch 0 \
+--start_epoch 1000 \
 --save_interval 100 \
 --accumulation_steps 2 \
 --lr_schedule 'cosine_anneal' \

@@ -65,7 +65,7 @@ parser.add_argument("--dst_d", default="300",type=int, help="d for template")
 parser.add_argument("--num_modals", default=4,type=int, help="#modals for training")
 parser.add_argument("--template_index", default=["flair","t1","t1c","t2"],nargs="+",type=str, help="")
 parser.add_argument("--use_Unet", action="store_true", help="modal type for pretrain")
-parser.add_argument("--start_epoch", default=-1,type=int, help="start epoch of training")
+parser.add_argument("--start_epoch", default=-1,type=int, help="start epoch of introducing constrative loss during pre-training, 1000 in paper")
 
 def save_args(args):
     """Save parsed arguments to config file.

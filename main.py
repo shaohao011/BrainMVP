@@ -127,8 +127,8 @@ def train_epoch(args, model,
         if step % accumulation_steps ==0:
             optimizer.step()
             optimizer.zero_grad()
-        if scheduler:
-            scheduler.step()
+          if scheduler:
+              scheduler.step()
 
     torch.cuda.empty_cache()    
     return  np.mean(loss_train), np.mean(loss_contrast),np.mean(psnr_train)

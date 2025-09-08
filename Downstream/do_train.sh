@@ -14,4 +14,5 @@ python3 -u train_script.py --max_epochs 300 --eval_interval 5 \
 --output_dir 'debug' \
 --experiment 'debug' \
 --pretrained 'pretrained_weights/BrainMVP_uniformer.pt' \
---mix_template True --template_dir 'templates'
+--mix_template True --template_dir 'templates' \
+--use_cl

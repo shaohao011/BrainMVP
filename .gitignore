@@ -1,0 +1,96 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.env*/
+.venv/
+conda-env/
+*.conda
+
+# ========================
+# Deep Learning / ML
+# ========================
+# Checkpoints & models
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+*.pb
+*.joblib
+
+# Training outputs
+checkpoints/
+weights/
+models/
+runs/
+logs/
+tensorboard/
+tb_logs/
+results/
+templates/
+
+# Experiment tracking
+wandb/
+mlruns/
+
+# ========================
+# Data
+# ========================
+data/
+dataset/
+datasets/
+raw_data/
+processed_data/
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# ========================
+# Jupyter
+# ========================
+.ipynb_checkpoints/
+*.ipynb~
+
+# ========================
+# IDE / Editor
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ========================
+# OS
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# CUDA / Build
+# ========================
+*.so
+*.o
+*.a
+build/
+dist/
+
+# ========================
+# Logs
+# ========================
+*.log
+nohup.out
+
+# ========================
+# Secrets
+# ========================
+*.key
+*.pem
+*.env

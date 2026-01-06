@@ -1,59 +1,55 @@
-# BrainMVP/Downstream/core/utils.py
 import os
 import csv
 import matplotlib.pyplot as plt
 import pandas as pd
 import torch
+import shutil
 
 class TrainingLogger:
-    def __init__(self, save_dir):
+    def __init__(self, save_dir, fold_idx=None):
         self.save_dir = save_dir
-        self.log_file = os.path.join(save_dir, 'training_log.csv')
-        self.headers = ['epoch', 'train_loss', 'train_acc', 'val_loss', 'val_acc', 'val_f1']
+        prefix = f"fold{fold_idx}_" if fold_idx is not None else ""
+        self.log_file = os.path.join(save_dir, f'{prefix}training_log.csv')
         
-        # Nếu file chưa tồn tại thì tạo header
+        # Header chi tiết hơn
+        self.headers = [
+            'epoch', 'train_loss', 'train_acc', 
+            'val_loss', 'val_acc', 'val_macro_f1',
+            'neg_prec', 'neg_rec', 'neg_f1', # Class 0
+            'hem_prec', 'hem_rec', 'hem_f1', # Class 1
+            'inf_prec', 'inf_rec', 'inf_f1'  # Class 2
+        ]
+        
         if not os.path.exists(self.log_file):
             with open(self.log_file, 'w', newline='') as f:
                 writer = csv.writer(f)
                 writer.writerow(self.headers)
 
-    def log(self, epoch, train_loss, train_acc, val_loss, val_acc, val_f1):
+    def log(self, epoch, train_stats, val_stats, report):
+
+        
+        def get_metrics(name):
+            if name in report:
+                return [
+                    report[name]['precision'], 
+                    report[name]['recall'], 
+                    report[name]['f1-score']
+                ]
+            return [0.0, 0.0, 0.0]
+
+        row = [
+            epoch, 
+            train_stats['loss'], train_stats['acc'],
+            val_stats['loss'], val_stats['acc'], val_stats['f1']
+        ]
+        row.extend(get_metrics('Negative'))
+        row.extend(get_metrics('Hemorrhage'))
+        row.extend(get_metrics('Infarction'))
+
         with open(self.log_file, 'a', newline='') as f:
             writer = csv.writer(f)
-            writer.writerow([epoch, train_loss, train_acc, val_loss, val_acc, val_f1])
+            writer.writerow(row)
 
-    def plot_history(self):
-        # Vẽ biểu đồ từ file CSV
-        try:
-            df = pd.read_csv(self.log_file)
-            fig, ax = plt.subplots(1, 2, figsize=(15, 5))
-            
-            # Loss
-            ax[0].plot(df['epoch'], df['train_loss'], label='Train Loss')
-            ax[0].plot(df['epoch'], df['val_loss'], label='Val Loss')
-            ax[0].set_title('Loss History')
-            ax[0].set_xlabel('Epoch')
-            ax[0].legend()
-            
-            # Accuracy & F1
-            ax[1].plot(df['epoch'], df['val_acc'], label='Val Acc')
-            ax[1].plot(df['epoch'], df['val_f1'], label='Val F1')
-            ax[1].set_title('Metrics History')
-            ax[1].set_xlabel('Epoch')
-            ax[1].legend()
-            
-            plt.savefig(os.path.join(self.save_dir, 'history_plot.png'))
-            plt.close()
-            print(f"-> Đã lưu biểu đồ tại: {os.path.join(self.save_dir, 'history_plot.png')}")
-        except Exception as e:
-            print(f"Không thể vẽ biểu đồ: {e}")
-
-def save_checkpoint(state, save_dir, is_best=False):
-    # Lưu checkpoint mới nhất (để resume)
-    filename = os.path.join(save_dir, 'last_checkpoint.pth')
-    torch.save(state, filename)
-    
-    # Nếu là best thì copy ra file riêng
-    if is_best:
-        best_filename = os.path.join(save_dir, 'best_model.pth')
-        torch.save(state, best_filename)
+def save_checkpoint(state, save_dir, filename='checkpoint.pth'):
+    path = os.path.join(save_dir, filename)
+    torch.save(state, path)
